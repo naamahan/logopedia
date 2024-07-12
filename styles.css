@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --base: 20px;
+  --scale: 1.25;
+  --h-xs: calc(var(--base) * var(--scale));
+  --h-s: calc(var(--h-xs) * var(--scale));
+  --h-m: calc(var(--h-s) * var(--scale));
+  --h-l: calc(var(--h-m) * var(--scale));
+  --h-xl: calc(var(--h-l) * var(--scale));
+  --h-xxl: calc(var(--h-xl) * var(--scale));
+  --p-m: calc(var(--base) / var(--scale));
+  --p-s: calc(var(--p-m) / var(--scale));
+  --p-xs: calc(var(--p-s) / var(--scale));
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url(fonts/InterVariable.ttf);
+}
+
+html,
+body {
+  font-family: 'Inter';
+  font-size: var(--base);
+}
