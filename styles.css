@@ -103,6 +103,10 @@ input {
 
 /* border */
 
+.border0 {
+  border: hidden;
+}
+
 .border-gray {
   border: 1px solid var(--neutral-200);
 }
@@ -133,6 +137,10 @@ input {
 
 .mb24 {
   margin-bottom: var(--s-24);
+}
+
+.mx-auto {
+  margin-inline: auto;
 }
 
 .pb40 {
@@ -213,4 +221,40 @@ input {
 
 .full {
   width: 100%;
+}
+
+@media (min-width: 35.8rem) {
+  .med__center {
+    text-align: center;
+  }
+
+  /* elements */
+
+  .med__max-hero {
+    max-width: 17.4rem;
+  }
+  
+  form {
+    max-width: 23.4rem;
+  }
+}
+
+@media (min-width: 51.2rem) {
+  /* fonts */
+
+  .lg__fs-m {
+    font-size: var(--h-m);
+  }
+
+  .lg__body-base {
+    font-size: var(--base);
+  }
+
+  .lg__max-heading {
+    max-width: 26rem;
+  }
+
+  .lg__max-sub {
+    max-width: 36rem;
+  }
 }
