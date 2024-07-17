@@ -7,6 +7,8 @@
 }
 
 :root {
+  /* type-scale */
+
   --base: 20px;
   --scale: 1.25;
   --h-xs: calc(var(--base) * var(--scale));
@@ -18,6 +20,38 @@
   --p-m: calc(var(--base) / var(--scale));
   --p-s: calc(var(--p-m) / var(--scale));
   --p-xs: calc(var(--p-s) / var(--scale));
+
+  /* colours */
+
+  --primary-black: #181818;
+  --primary-white: #ffffff;
+
+  --neutral-50: #fafafa;
+  --neutral-100: #e9e9e9;
+  --neutral-200: #d9d9d9;
+  --neutral-300: #c4c4c4;
+  --neutral-400: #9d9d9d;
+  --neutral-500: #7b7b7b;
+  --neutral-600: #555555;
+  --neutral-700: #434343;
+
+  --pink-light: #fff5fe;
+  --pink: #ce0eb1;
+
+  /* spacing */
+
+  --s-8: 0.4rem;
+  --s-12: 0.6rem;
+  --s-16: 0.8rem;
+  --s-24: 1.2rem;
+  --s-32: 1.6rem;
+  --s-40: 2rem;
+  --s-48: 2.4rem;
+
+  /* font weight */
+
+  --regular: 400;
+  --bold: 700;
 }
 
 @font-face {
@@ -29,4 +63,154 @@ html,
 body {
   font-family: 'Inter';
   font-size: var(--base);
+}
+
+input {
+  font: inherit;
+}
+
+/* --- utility --- */
+
+/* colour */
+
+.c-black {
+  color: var(--primary-black);
+}
+
+.c-white {
+  color: var(--primary-white);
+}
+
+.c-pink {
+  color: var(--pink);
+}
+
+.b-black {
+  background-color: var(--primary-black);
+}
+
+.b-white {
+  background-color: var(--primary-white);
+}
+
+.b-pink {
+  background-color: var(--pink-light);
+}
+
+.b-gray {
+  background-color: var(--neutral-50);
+}
+
+/* border */
+
+.border-gray {
+  border: 1px solid var(--neutral-200);
+}
+
+.border-full {
+  border-radius: 99px;
+}
+
+/* position */
+
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.pr-16 {
+  right: var(--s-16);
+}
+
+/* spacing */
+
+.mb8 {
+  margin-bottom: var(--s-8);
+}
+
+.mb24 {
+  margin-bottom: var(--s-24);
+}
+
+.pb40 {
+  padding-bottom: var(--s-40);
+}
+
+.pl16 {
+  padding-left: var(--s-16);
+}
+
+.pr48 {
+  padding-right: var(--s-48);
+}
+
+.px16 {
+  padding-inline: var(--s-16);
+}
+
+.px20 {
+  padding-inline: var(--base);
+}
+
+.px32 {
+  padding-inline: var(--s-32)
+}
+
+.py12 {
+  padding-block: var(--s-12);
+}
+
+.py16 {
+  padding-block: var(--s-16);
+}
+
+/* text */
+
+.body-m {
+  font-size: var(--p-m);
+}
+
+.fs-xxl {
+  font-size: var(--h-xxl);
+}
+
+.fs-xl {
+  font-size: var(--h-xl);
+}
+
+.fs-l {
+  font-size: var(--h-l);
+}
+
+.fs-m {
+  font-size: var(--h-m);
+}
+
+.fs-s {
+  font-size: var(--h-s);
+}
+
+.fs-xs {
+  font-size: var(--h-xs);
+}
+
+.bold {
+  font-weight: var(--bold);
+}
+
+.center {
+  text-align: center;
+}
+
+.balance {
+  text-wrap: balance;
+}
+
+/* size */
+
+.full {
+  width: 100%;
 }
