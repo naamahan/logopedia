@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "LEGO",
+    "cover": "logos/covers/lego.svg",
+    "description": "LEGO cover image",
+    "resource": "logos/resources/Logo - LEGO.svg"
+  },
+  {
+    "id": 2,
+    "name": "Citi",
+    "cover": "logos/covers/citi.svg",
+    "description": "Citi cover image",
+    "resource": "logos/resources/Logo - Citi.svg"
+  },
+  {
+    "id": 3,
+    "name": "American Express",
+    "cover": "logos/covers/american-express.svg",
+    "description": "American Express cover image",
+    "resource": "logos/resources/Logo - American Express.svg"
+  },
+  {
+    "id": 4,
+    "name": "Vanguard",
+    "cover": "logos/covers/vanguard.svg",
+    "description": "Vanguard cover image",
+    "resource": "logos/resources/Logo - Vanguard.svg"
+  },
+  {
+    "id": 4,
+    "name": "Vanguard",
+    "cover": "logos/covers/vanguard.svg",
+    "description": "Vanguard cover image",
+    "resource": "logos/resources/Logo - Vanguard.svg"
+  }
+]

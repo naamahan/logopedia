@@ -7,20 +7,24 @@
   <title>Logopedia | The library for SVG logos</title>
   <link rel="stylesheet" href="styles.css">
 </head>
-<body class="b-white c-black">
-  <header class="b-pink pb40">
-    <nav class="bold center mb24 px32 py16">λογοπαίδεια</nav>
+<body>
+  <header class="hero">
+    <nav class="navigation">λογοπαίδεια</nav>
     <section class="px20">
-      <h1 class="balance fs-xs mb8 mx-auto med__center med__max-hero lg__fs-m lg__max-heading">The latest, most reliable <span class="c-pink">SVG logos</span>, all in one place</h1>
-      <p class="body-m mb24 mx-auto med__center med__max-hero lg__body-base lg__max-sub">Choose your favourite SVG logo from an evergrowing library of assets.</p>
-      <form class="b-gray body-m border-gray border-full full mx-auto pl16 pr48 py12 relative" action="search">
-        <svg class="absolute pr-16" width="24" xmlns="http://www.w3.org/2000/svg" height="24" fill="none"><g data-testid="icon-search" style="fill: rgb(0, 0, 0);"><path d="M15 10a5 5 0 1 1-10.001-.001A5 5 0 0 1 15 10Zm-.808 5.606a7 7 0 1 1 1.414-1.414l5.391 5.391-1.414 1.414-5.391-5.391Z" fill-rule="evenodd" clip-rule="evenodd" style="fill: rgb(24, 24, 24); fill-opacity: 1;" class="fills" data-testid="svg-path"/></g></svg>
-        <input class="border0 full" type="search" placeholder="LEGO, PlayStation, YouTube,...">
+      <h1 class="headline mx-auto">The latest, most reliable <span class="c-pink">SVG logos</span>, all in one place</h1>
+      <p class="subheadline mx-auto">Choose your favourite SVG logo from an evergrowing library of assets.</p>
+      <form class="search-input full mx-auto relative" action="search">
+        <svg width="24" xmlns="http://www.w3.org/2000/svg" height="24" fill="none"><g data-testid="icon-search" style="fill: rgb(0, 0, 0);"><path d="M15 10a5 5 0 1 1-10.001-.001A5 5 0 0 1 15 10Zm-.808 5.606a7 7 0 1 1 1.414-1.414l5.391 5.391-1.414 1.414-5.391-5.391Z" fill-rule="evenodd" clip-rule="evenodd" style="fill: rgb(24, 24, 24); fill-opacity: 1;" class="fills" data-testid="svg-path"/></g></svg>
+        <input class="full" type="search" placeholder="LEGO, PlayStation, YouTube,...">
       </form>
     </section>
   </header>
-  <!--js logo grid-->
-  <section></section>
-  <footer class="bold b-black center c-white py16 px32">λογοπαίδεια</footer>
+  <section>
+    <h2 class="hide-visually">Gallery of logos</h2>
+    <div class="card-gallery mx-auto">
+    </div>
+  </section>
+  <footer>λογοπαίδεια</footer>
+  <script src="script.js"></script>
 </body>
 </html>
