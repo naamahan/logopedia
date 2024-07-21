@@ -28,10 +28,59 @@
     "resource": "logos/resources/Logo - Vanguard.svg"
   },
   {
-    "id": 4,
-    "name": "Vanguard",
-    "cover": "logos/covers/vanguard.svg",
-    "description": "Vanguard cover image",
-    "resource": "logos/resources/Logo - Vanguard.svg"
+    "id": 5,
+    "name": "YouTube",
+    "cover": "logos/covers/youtube.svg",
+    "description": "YouTube cover image",
+    "resource": "logos/resources/Logo - YouTube.svg"
+  },
+  {
+    "id": 6,
+    "name": "Apple",
+    "cover": "logos/covers/apple.svg",
+    "description": "Apple cover image",
+    "resource": "logos/resources/Logo - Apple.svg"
+  },
+  {
+    "id": 7,
+    "name": "PlayStation",
+    "cover": "logos/covers/playstation.svg",
+    "description": "PlayStation cover image",
+    "resource": "logos/resources/Logo - PlayStation.svg"
+  },
+  {
+    "id": 8,
+    "name": "Betterment",
+    "cover": "logos/covers/betterment.svg",
+    "description": "Betterment cover image",
+    "resource": "logos/resources/Logo - Betterment.svg"
+  },
+  {
+    "id": 9,
+    "name": "Discover",
+    "cover": "logos/covers/discover.svg",
+    "description": "Discover cover image",
+    "resource": "logos/resources/Logo - Discover.svg"
+  },
+  {
+    "id": 10,
+    "name": "Sony",
+    "cover": "logos/covers/sony.svg",
+    "description": "Sony cover image",
+    "resource": "logos/resources/Logo - Sony.svg"
+  },
+  {
+    "id": 11,
+    "name": "Synchrony",
+    "cover": "logos/covers/synchrony.svg",
+    "description": "Synchrony cover image",
+    "resource": "logos/resources/Logo - Synchrony.svg"
+  },
+  {
+    "id": 12,
+    "name": "Bankrate",
+    "cover": "logos/covers/bankrate.svg",
+    "description": "Bankrate cover image",
+    "resource": "logos/resources/Logo - Bankrate.svg"
   }
 ]

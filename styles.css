@@ -187,6 +187,7 @@ footer {
   border: 2px solid var(--primary-black);
   display: flex;
   align-items: center;
+  height: var(--s-24);
   margin: var(--s-8);
   cursor: pointer;
 }
