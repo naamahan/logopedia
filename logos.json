@@ -82,5 +82,61 @@
     "cover": "logos/covers/bankrate.svg",
     "description": "Bankrate cover image",
     "resource": "logos/resources/Logo - Bankrate.svg"
+  },
+  {
+    "id": 13,
+    "name": "Netflix",
+    "cover": "logos/covers/netflix.svg",
+    "description": "Netflix cover image",
+    "resource": "logos/resources/Logo - Netflix.svg"
+  },
+  {
+    "id": 14,
+    "name": "Tesla",
+    "cover": "logos/covers/tesla.svg",
+    "description": "Tesla cover image",
+    "resource": "logos/resources/Logo - Tesla.svg"
+  },
+  {
+    "id": 15,
+    "name": "Tesla Cybertruck",
+    "cover": "logos/covers/tesla-cybertruck.svg",
+    "description": "Tesla Cybertruck cover image",
+    "resource": "logos/resources/Logo - Tesla Cybertruck.svg"
+  },
+  {
+    "id": 16,
+    "name": "Nintendo",
+    "cover": "logos/covers/nintendo.svg",
+    "description": "Nintendo cover image",
+    "resource": "logos/resources/Logo - Nintendo.svg"
+  },
+  {
+    "id": 17,
+    "name": "Samsung",
+    "cover": "logos/covers/samsung.svg",
+    "description": "Samsung cover image",
+    "resource": "logos/resources/Logo - Samsung.svg"
+  },
+  {
+    "id": 18,
+    "name": "Shell",
+    "cover": "logos/covers/shell.svg",
+    "description": "Shell cover image",
+    "resource": "logos/resources/Logo - Shell.svg"
+  },
+  {
+    "id": 19,
+    "name": "Nike",
+    "cover": "logos/covers/nike.svg",
+    "description": "Nike cover image",
+    "resource": "logos/resources/Logo - Nike.svg"
+  },
+  {
+    "id": 20,
+    "name": "Jordan",
+    "cover": "logos/covers/jordan.svg",
+    "description": "Jordan cover image",
+    "resource": "logos/resources/Logo - Jordan.svg"
   }
 ]
