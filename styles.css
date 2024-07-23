@@ -36,6 +36,7 @@
   --neutral-700: #434343;
 
   --pink-light: #fff5fe;
+  --pink-50: #ffddfa;
   --pink: #ce0eb1;
 
   /* spacing */
@@ -126,13 +127,23 @@ footer {
   font-size: var(--p-m);
   border: 1px solid var(--neutral-200);
   border-radius: 99px;
-  padding-block: var(--s-12);
-  padding-left: var(--s-16);
-  padding-right: var(--s-48);
+  padding-block: 1px;
+
+  & > input {
+    padding-block: var(--s-12);
+    padding-left: var(--s-16);
+    padding-right: var(--s-48);
+    border-radius: 99px;
+  }
+}
+
+.search-input:hover {
+  box-shadow: 0 0 0 4px var(--pink-50);
 }
 
 .search-input svg {
   position: absolute;
+  top: var(--s-12);
   right: var(--s-16);
 }
 
