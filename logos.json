@@ -138,5 +138,432 @@
     "cover": "logos/covers/jordan.svg",
     "description": "Jordan cover image",
     "resource": "logos/resources/Logo - Jordan.svg"
+  },
+  {
+    "id": 21,
+    "name": "X",
+    "cover": "logos/covers/x.svg",
+    "description": "X cover image",
+    "resource": "logos/resources/Logo - X.svg"
+  },
+  {
+    "id": 22,
+    "name": "Reddit",
+    "cover": "logos/covers/reddit.svg",
+    "description": "Reddit cover image",
+    "resource": "logos/resources/Logo - Reddit.svg"
+  },
+  {
+    "id": 23,
+    "name": "LinkedIn",
+    "cover": "logos/covers/linkedin.svg",
+    "description": "LinkedIn cover image",
+    "resource": "logos/resources/Logo - LinkedIn.svg"
+  },
+  {
+    "id": 24,
+    "name": "Microsoft 365",
+    "cover": "logos/covers/microsoft-365.svg",
+    "description": "Microsoft 365 cover image",
+    "resource": "logos/resources/Logo - Microsoft 365.svg"
+  },
+  {
+    "id": 25,
+    "name": "adidas",
+    "cover": "logos/covers/adidas.svg",
+    "description": "adidas cover image",
+    "resource": "logos/resources/Logo - adidas.svg"
+  },
+  {
+    "id": 26,
+    "name": "PayPal",
+    "cover": "logos/covers/paypal.svg",
+    "description": "PayPal cover image",
+    "resource": "logos/resources/Logo - PayPal.svg"
+  },
+  {
+    "id": 27,
+    "name": "Mastercard",
+    "cover": "logos/covers/mastercard.svg",
+    "description": "Mastercard cover image",
+    "resource": "logos/resources/Logo - Mastercard.svg"
+  },
+  {
+    "id": 28,
+    "name": "Discord",
+    "cover": "logos/covers/discord.svg",
+    "description": "Discord cover image",
+    "resource": "logos/resources/Logo - Discord.svg"
+  },
+  {
+    "id": 29,
+    "name": "Twitch",
+    "cover": "logos/covers/twitch.svg",
+    "description": "Twitch cover image",
+    "resource": "logos/resources/Logo - Twitch.svg"
+  },
+  {
+    "id": 30,
+    "name": "Walmart",
+    "cover": "logos/covers/walmart.svg",
+    "description": "Walmart cover image",
+    "resource": "logos/resources/Logo - Walmart.svg"
+  },
+  {
+    "id": 31,
+    "name": "Figma",
+    "cover": "logos/covers/figma.svg",
+    "description": "Figma cover image",
+    "resource": "logos/resources/Logo - Figma.svg"
+  },
+  {
+    "id": 32,
+    "name": "Dribbble",
+    "cover": "logos/covers/dribbble.svg",
+    "description": "Dribbble cover image",
+    "resource": "logos/resources/Logo - Dribbble.svg"
+  },
+  {
+    "id": 33,
+    "name": "Forbes",
+    "cover": "logos/covers/forbes.svg",
+    "description": "Forbes cover image",
+    "resource": "logos/resources/Logo - Forbes.svg"
+  },
+  {
+    "id": 34,
+    "name": "Zoom",
+    "cover": "logos/covers/zoom.svg",
+    "description": "Zoom cover image",
+    "resource": "logos/resources/Logo - Zoom.svg"
+  },
+  {
+    "id": 35,
+    "name": "Google Icon",
+    "cover": "logos/covers/google-icon.svg",
+    "description": "Google Icon cover image",
+    "resource": "logos/resources/Logo - Google Icon.svg"
+  },
+  {
+    "id": 36,
+    "name": "Atlassian",
+    "cover": "logos/covers/atlassian.svg",
+    "description": "Atlassian cover image",
+    "resource": "logos/resources/Logo - Atlassian.svg"
+  },
+  {
+    "id": 37,
+    "name": "Google Chrome",
+    "cover": "logos/covers/google-chrome.svg",
+    "description": "Google Chrome cover image",
+    "resource": "logos/resources/Logo - Google Chrome.svg"
+  },
+  {
+    "id": 38,
+    "name": "Firefox",
+    "cover": "logos/covers/firefox.svg",
+    "description": "Firefox cover image",
+    "resource": "logos/resources/Logo - Firefox.svg"
+  },
+  {
+    "id": 39,
+    "name": "Red Hat",
+    "cover": "logos/covers/red-hat.svg",
+    "description": "Red Hat cover image",
+    "resource": "logos/resources/Logo - Red Hat.svg"
+  },
+  {
+    "id": 40,
+    "name": "Brave",
+    "cover": "logos/covers/brave.svg",
+    "description": "Brave cover image",
+    "resource": "logos/resources/Logo - Brave.svg"
+  },
+  {
+    "id": 41,
+    "name": "Codeberg",
+    "cover": "logos/covers/codeberg.svg",
+    "description": "Codeberg cover image",
+    "resource": "logos/resources/Logo - Codeberg.svg"
+  },
+  {
+    "id": 42,
+    "name": "GitHub Icon",
+    "cover": "logos/covers/github-icon.svg",
+    "description": "GitHub Icon cover image",
+    "resource": "logos/resources/Logo - GitHub Icon.svg"
+  },
+  {
+    "id": 43,
+    "name": "CNN",
+    "cover": "logos/covers/cnn.svg",
+    "description": "CNN cover image",
+    "resource": "logos/resources/Logo - CNN.svg"
+  },
+  {
+    "id": 44,
+    "name": "Nasdaq",
+    "cover": "logos/covers/nasdaq.svg",
+    "description": "Nasdaq cover image",
+    "resource": "logos/resources/Logo - Nasdaq.svg"
+  },
+  {
+    "id": 45,
+    "name": "Target",
+    "cover": "logos/covers/target.svg",
+    "description": "Target cover image",
+    "resource": "logos/resources/Logo - Target.svg"
+  },
+  {
+    "id": 46,
+    "name": "Airbnb",
+    "cover": "logos/covers/airbnb.svg",
+    "description": "Airbnb cover image",
+    "resource": "logos/resources/Logo - Airbnb.svg"
+  },
+  {
+    "id": 47,
+    "name": "The New York Times",
+    "cover": "logos/covers/the-new-york-times.svg",
+    "description": "The New York Times cover image",
+    "resource": "logos/resources/Logo - The New York Times.svg"
+  },
+  {
+    "id": 48,
+    "name": "NASA",
+    "cover": "logos/covers/nasa.svg",
+    "description": "NASA cover image",
+    "resource": "logos/resources/Logo - NASA.svg"
+  },
+  {
+    "id": 49,
+    "name": "The Wall Street Journal",
+    "cover": "logos/covers/the-wall-street-journal.svg",
+    "description": "The Wall Street Journal cover image",
+    "resource": "logos/resources/Logo - The Wall Street Journal.svg"
+  },
+  {
+    "id": 50,
+    "name": "The Washington Post",
+    "cover": "logos/covers/the-washington-post.svg",
+    "description": "The Washington Post cover image",
+    "resource": "logos/resources/Logo - The Washington Post.svg"
+  },
+  {
+    "id": 51,
+    "name": "Salesforce",
+    "cover": "logos/covers/salesforce.svg",
+    "description": "Salesforce cover image",
+    "resource": "logos/resources/Logo - Salesforce.svg"
+  },
+  {
+    "id": 52,
+    "name": "Coinbase",
+    "cover": "logos/covers/coinbase.svg",
+    "description": "Coinbase cover image",
+    "resource": "logos/resources/Logo - Coinbase.svg"
+  },
+  {
+    "id": 53,
+    "name": "Microsoft",
+    "cover": "logos/covers/microsoft.svg",
+    "description": "Microsoft cover image",
+    "resource": "logos/resources/Logo - Microsoft.svg"
+  },
+  {
+    "id": 54,
+    "name": "Asana",
+    "cover": "logos/covers/asana.svg",
+    "description": "Asana cover image",
+    "resource": "logos/resources/Logo - Asana.svg"
+  },
+  {
+    "id": 55,
+    "name": "Riot Games",
+    "cover": "logos/covers/riot-games.svg",
+    "description": "Riot Games cover image",
+    "resource": "logos/resources/Logo - Riot Games.svg"
+  },
+  {
+    "id": 56,
+    "name": "Epic Games",
+    "cover": "logos/covers/epic-games.svg",
+    "description": "Epic Games cover image",
+    "resource": "logos/resources/Logo - Epic Games.svg"
+  },
+  {
+    "id": 57,
+    "name": "Huawei",
+    "cover": "logos/covers/huawei.svg",
+    "description": "Huawei cover image",
+    "resource": "logos/resources/Logo - Huawei.svg"
+  },
+  {
+    "id": 58,
+    "name": "Visa",
+    "cover": "logos/covers/visa.svg",
+    "description": "Visa cover image",
+    "resource": "logos/resources/Logo - Visa.svg"
+  },
+  {
+    "id": 59,
+    "name": "eBay",
+    "cover": "logos/covers/ebay.svg",
+    "description": "eBay cover image",
+    "resource": "logos/resources/Logo - eBay.svg"
+  },
+  {
+    "id": 60,
+    "name": "Spotify",
+    "cover": "logos/covers/spotify.svg",
+    "description": "Spotify cover image",
+    "resource": "logos/resources/Logo - Spotify.svg"
+  },
+  {
+    "id": 61,
+    "name": "Miro",
+    "cover": "logos/covers/miro.svg",
+    "description": "Miro cover image",
+    "resource": "logos/resources/Logo - Miro.svg"
+  },
+  {
+    "id": 62,
+    "name": "Pinterest",
+    "cover": "logos/covers/pinterest.svg",
+    "description": "Pinterest cover image",
+    "resource": "logos/resources/Logo - Pinterest.svg"
+  },
+  {
+    "id": 63,
+    "name": "Blender",
+    "cover": "logos/covers/blender.svg",
+    "description": "Blender cover image",
+    "resource": "logos/resources/Logo - Blender.svg"
+  },
+  {
+    "id": 64,
+    "name": "Autodesk",
+    "cover": "logos/covers/autodesk.svg",
+    "description": "Autodesk cover image",
+    "resource": "logos/resources/Logo - Autodesk.svg"
+  },
+  {
+    "id": 65,
+    "name": "Adobe",
+    "cover": "logos/covers/adobe.svg",
+    "description": "Adobe cover image",
+    "resource": "logos/resources/Logo - Adobe.svg"
+  },
+  {
+    "id": 66,
+    "name": "Burger King",
+    "cover": "logos/covers/burger-king.svg",
+    "description": "Burger King cover image",
+    "resource": "logos/resources/Logo - Burger King.svg"
+  },
+  {
+    "id": 67,
+    "name": "Carl's Jr.",
+    "cover": "logos/covers/carls-jr.svg",
+    "description": "Carl's Jr. cover image",
+    "resource": "logos/resources/Logo - Carl's Jr..svg"
+  },
+  {
+    "id": 68,
+    "name": "PUMA",
+    "cover": "logos/covers/puma.svg",
+    "description": "PUMA cover image",
+    "resource": "logos/resources/Logo - PUMA.svg"
+  },
+  {
+    "id": 69,
+    "name": "Oracle",
+    "cover": "logos/covers/oracle.svg",
+    "description": "Oracle cover image",
+    "resource": "logos/resources/Logo - Oracle.svg"
+  },
+  {
+    "id": 70,
+    "name": "Shopify",
+    "cover": "logos/covers/shopify.svg",
+    "description": "Shopify cover image",
+    "resource": "logos/resources/Logo - Shopify.svg"
+  },
+  {
+    "id": 71,
+    "name": "Verizon",
+    "cover": "logos/covers/verizon.svg",
+    "description": "Verizon cover image",
+    "resource": "logos/resources/Logo - Verizon.svg"
+  },
+  {
+    "id": 72,
+    "name": "T-Mobile",
+    "cover": "logos/covers/t-mobile.svg",
+    "description": "T-Mobile cover image",
+    "resource": "logos/resources/Logo - T-Mobile.svg"
+  },
+  {
+    "id": 73,
+    "name": "Domino's",
+    "cover": "logos/covers/dominos.svg",
+    "description": "Domino's cover image",
+    "resource": "logos/resources/Logo - Domino's.svg"
+  },
+  {
+    "id": 74,
+    "name": "HP",
+    "cover": "logos/covers/hp.svg",
+    "description": "HP cover image",
+    "resource": "logos/resources/Logo - HP.svg"
+  },
+  {
+    "id": 75,
+    "name": "Canon",
+    "cover": "logos/covers/canon.svg",
+    "description": "Canon cover image",
+    "resource": "logos/resources/Logo - Canon.svg"
+  },
+  {
+    "id": 76,
+    "name": "Atari",
+    "cover": "logos/covers/atari.svg",
+    "description": "Atari cover image",
+    "resource": "logos/resources/Logo - Atari.svg"
+  },
+  {
+    "id": 77,
+    "name": "Warner Bros. Discovery",
+    "cover": "logos/covers/warner-bros-discovery.svg",
+    "description": "Warner Bros. Discovery cover image",
+    "resource": "logos/resources/Logo - Warner Bros. Discovery.svg"
+  },
+  {
+    "id": 78,
+    "name": "Fisher-Price",
+    "cover": "logos/covers/fisher-price.svg",
+    "description": "Fisher-Price cover image",
+    "resource": "logos/resources/Logo - Fisher-Price.svg"
+  },
+  {
+    "id": 79,
+    "name": "Barbie",
+    "cover": "logos/covers/barbie.svg",
+    "description": "Barbie cover image",
+    "resource": "logos/resources/Logo - Barbie.svg"
+  },
+  {
+    "id": 80,
+    "name": "Hot Wheels",
+    "cover": "logos/covers/hot-wheels.svg",
+    "description": "Hot Wheels cover image",
+    "resource": "logos/resources/Logo - Hot Wheels.svg"
+  },
+  {
+    "id": 81,
+    "name": "Mattel",
+    "cover": "logos/covers/mattel.svg",
+    "description": "Mattel cover image",
+    "resource": "logos/resources/Logo - Mattel.svg"
   }
 ]
