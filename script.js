@@ -12,7 +12,6 @@ const getData = async () => {
 
 const displayLogos = async () => {
   let query = search.value;
-  console.log("Query:", query);
 
   const payload = await getData();
 
