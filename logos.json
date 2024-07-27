@@ -565,5 +565,229 @@
     "cover": "logos/covers/mattel.svg",
     "description": "Mattel cover image",
     "resource": "logos/resources/Logo - Mattel.svg"
+  },
+  {
+    "id": 82,
+    "name": "Greenpeace",
+    "cover": "logos/covers/greenpeace.svg",
+    "description": "Greenpeace cover image",
+    "resource": "logos/resources/Logo - Greenpeace.svg"
+  },
+  {
+    "id": 83,
+    "name": "bp",
+    "cover": "logos/covers/bp.svg",
+    "description": "bp cover image",
+    "resource": "logos/resources/Logo - bp.svg"
+  },
+  {
+    "id": 84,
+    "name": "CNBC",
+    "cover": "logos/covers/cnbc.svg",
+    "description": "CNBC cover image",
+    "resource": "logos/resources/Logo - CNBC.svg"
+  },
+  {
+    "id": 85,
+    "name": "Bank of America",
+    "cover": "logos/covers/bank-of-america.svg",
+    "description": "Bank of America cover image",
+    "resource": "logos/resources/Logo - Bank of America.svg"
+  },
+  {
+    "id": 86,
+    "name": "Charles Schwab",
+    "cover": "logos/covers/charles-schwab.svg",
+    "description": "Charles Schwab cover image",
+    "resource": "logos/resources/Logo - Charles Schwab.svg"
+  },
+  {
+    "id": 87,
+    "name": "Capital One",
+    "cover": "logos/covers/capital-one.svg",
+    "description": "Capital One cover image",
+    "resource": "logos/resources/Logo - Capital One.svg"
+  },
+  {
+    "id": 88,
+    "name": "E*TRADE",
+    "cover": "logos/covers/e-trade.svg",
+    "description": "E*TRADE cover image",
+    "resource": "logos/resources/Logo - E-TRADE.svg"
+  },
+  {
+    "id": 89,
+    "name": "Barclays",
+    "cover": "logos/covers/barclays.svg",
+    "description": "Barclays cover image",
+    "resource": "logos/resources/Logo - Barclays.svg"
+  },
+  {
+    "id": 90,
+    "name": "FNBO Direct",
+    "cover": "logos/covers/fnbo-direct.svg",
+    "description": "FNBO Direct cover image",
+    "resource": "logos/resources/Logo - FNBO Direct.svg"
+  },
+  {
+    "id": 91,
+    "name": "CIBC",
+    "cover": "logos/covers/cibc.svg",
+    "description": "CIBC cover image",
+    "resource": "logos/resources/Logo - CIBC.svg"
+  },
+  {
+    "id": 92,
+    "name": "PNC",
+    "cover": "logos/covers/pnc.svg",
+    "description": "PNC cover image",
+    "resource": "logos/resources/Logo - PNC.svg"
+  },
+  {
+    "id": 93,
+    "name": "Marcus by Goldman Sachs",
+    "cover": "logos/covers/marcus-by-goldman-sachs.svg",
+    "description": "Marcus by Goldman Sachs cover image",
+    "resource": "logos/resources/Logo - Marcus by Goldman Sachs.svg"
+  },
+  {
+    "id": 94,
+    "name": "Goldman Sachs",
+    "cover": "logos/covers/goldman-sachs.svg",
+    "description": "Goldman Sachs cover image",
+    "resource": "logos/resources/Logo - Goldman Sachs.svg"
+  },
+  {
+    "id": 95,
+    "name": "BlackRock",
+    "cover": "logos/covers/blackrock.svg",
+    "description": "BlackRock cover image",
+    "resource": "logos/resources/Logo - BlackRock.svg"
+  },
+  {
+    "id": 96,
+    "name": "The Motley Fool",
+    "cover": "logos/covers/the-motley-fool.svg",
+    "description": "The Motley Fool cover image",
+    "resource": "logos/resources/Logo - The Motley Fool.svg"
+  },
+  {
+    "id": 97,
+    "name": "GOBankingRates",
+    "cover": "logos/covers/gobankingrates.svg",
+    "description": "GOBankingRates cover image",
+    "resource": "logos/resources/Logo - GOBankingRates.svg"
+  },
+  {
+    "id": 98,
+    "name": "Yahoo",
+    "cover": "logos/covers/yahoo.svg",
+    "description": "Yahoo cover image",
+    "resource": "logos/resources/Logo - Yahoo.svg"
+  },
+  {
+    "id": 99,
+    "name": "React",
+    "cover": "logos/covers/react.svg",
+    "description": "React cover image",
+    "resource": "logos/resources/Logo - React.svg"
+  },
+  {
+    "id": 100,
+    "name": "Sass",
+    "cover": "logos/covers/sass.svg",
+    "description": "Sass cover image",
+    "resource": "logos/resources/Logo - Sass.svg"
+  },
+  {
+    "id": 101,
+    "name": "Vue.js",
+    "cover": "logos/covers/vue-js.svg",
+    "description": "Vue.js cover image",
+    "resource": "logos/resources/Logo - Vue.js.svg"
+  },
+  {
+    "id": 102,
+    "name": "Angular",
+    "cover": "logos/covers/angular.svg",
+    "description": "Angular cover image",
+    "resource": "logos/resources/Logo - Angular.svg"
+  },
+  {
+    "id": 103,
+    "name": "VSCodium",
+    "cover": "logos/covers/vscodium.svg",
+    "description": "VSCodium cover image",
+    "resource": "logos/resources/Logo - VSCodium.svg"
+  },
+  {
+    "id": 104,
+    "name": "NewPipe",
+    "cover": "logos/covers/newpipe.svg",
+    "description": "NewPipe cover image",
+    "resource": "logos/resources/Logo - NewPipe.svg"
+  },
+  {
+    "id": 105,
+    "name": "Intel",
+    "cover": "logos/covers/intel.svg",
+    "description": "Intel cover image",
+    "resource": "logos/resources/Logo - Intel.svg"
+  },
+  {
+    "id": 106,
+    "name": "Starbucks",
+    "cover": "logos/covers/starbucks.svg",
+    "description": "Starbucks cover image",
+    "resource": "logos/resources/Logo - Starbucks.svg"
+  },
+  {
+    "id": 107,
+    "name": "Binance",
+    "cover": "logos/covers/binance.svg",
+    "description": "Binance cover image",
+    "resource": "logos/resources/Logo - Binance.svg"
+  },
+  {
+    "id": 108,
+    "name": "UPS",
+    "cover": "logos/covers/ups.svg",
+    "description": "UPS cover image",
+    "resource": "logos/resources/Logo - UPS.svg"
+  },
+  {
+    "id": 109,
+    "name": "Nestlé",
+    "cover": "logos/covers/nestle.svg",
+    "description": "Nestlé cover image",
+    "resource": "logos/resources/Logo - Nestlé.svg"
+  },
+  {
+    "id": 110,
+    "name": "DHL",
+    "cover": "logos/covers/dhl.svg",
+    "description": "DHL cover image",
+    "resource": "logos/resources/Logo - DHL.svg"
+  },
+  {
+    "id": 111,
+    "name": "KFC",
+    "cover": "logos/covers/kfc.svg",
+    "description": "KFC cover image",
+    "resource": "logos/resources/Logo - KFC.svg"
+  },
+  {
+    "id": 112,
+    "name": "KFC Icon",
+    "cover": "logos/covers/kfc-icon.svg",
+    "description": "KFC Icon cover image",
+    "resource": "logos/resources/Logo - KFC Icon.svg"
+  },
+  {
+    "id": 113,
+    "name": "SketchUp",
+    "cover": "logos/covers/sketchup.svg",
+    "description": "SketchUp cover image",
+    "resource": "logos/resources/Logo - SketchUp.svg"
   }
 ]
