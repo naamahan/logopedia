@@ -68,6 +68,13 @@ html {
   color: var(--primary-black);
   font-family: 'Inter';
   font-size: var(--base);
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
 }
 
 input, button {
@@ -108,7 +115,7 @@ a {
 }
 
 footer {
-  margin-top: var(--s-32);
+  margin-top: auto;
   background-color: var(--primary-black);
   color: var(--primary-white);
 }
@@ -161,6 +168,7 @@ footer {
   gap: var(--s-24);
   padding-block: var(--s-24);
   padding-inline: var(--base);
+  margin-bottom: var(--s-32);
   max-width: 70rem;
 }
 
