@@ -5,6 +5,8 @@ The library for SVG logos.
 Downloading an SVG logo is as easy as going to [the site](https://naamahan.github.io/logopedia/), searching for the logo you want, and click the download button. That's it!
 The file will be saved in your computer. The naming convention is **Logo - {name}**, so no matter how many logos you download, you can find all of them next to each other.
 
+All downloaded logos are displayed in either of two sizes: 1,024px width for horizontal logos, and 512px height for vertical and square logos.
+
 ## About
 This is a growing library with the latest logos in SVG format. The way the logos are registered in **λογοπαίδεια** is from their websites, in one of three ways:
 + by collecting the logo resources from the dedicated subpage (e.g., the [Instagram resource center](https://about.meta.com/brand/resources/instagram/instagram-brand/),
