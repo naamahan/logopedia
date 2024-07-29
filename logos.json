@@ -789,5 +789,453 @@
     "cover": "logos/covers/sketchup.svg",
     "description": "SketchUp cover image",
     "resource": "logos/resources/Logo - SketchUp.svg"
+  },
+  {
+    "id": 114,
+    "name": "The Coca-Cola Company",
+    "cover": "logos/covers/the-coca-cola-company.svg",
+    "description": "The Coca-Cola Company cover image",
+    "resource": "logos/resources/Logo - The Coca-Cola Company.svg"
+  },
+  {
+    "id": 115,
+    "name": "Coca-Cola",
+    "cover": "logos/covers/coca-cola.svg",
+    "description": "Coca-Cola cover image",
+    "resource": "logos/resources/Logo - Coca-Cola.svg"
+  },
+  {
+    "id": 116,
+    "name": "Red Bull",
+    "cover": "logos/covers/red-bull.svg",
+    "description": "Red Bull cover image",
+    "resource": "logos/resources/Logo - Red Bull.svg"
+  },
+  {
+    "id": 117,
+    "name": "Formula 1",
+    "cover": "logos/covers/formula-1.svg",
+    "description": "Formula 1 cover image",
+    "resource": "logos/resources/Logo - Formula 1.svg"
+  },
+  {
+    "id": 118,
+    "name": "NFL",
+    "cover": "logos/covers/nfl.svg",
+    "description": "NFL cover image",
+    "resource": "logos/resources/Logo - NFL.svg"
+  },
+  {
+    "id": 119,
+    "name": "NBA",
+    "cover": "logos/covers/nba.svg",
+    "description": "NBA cover image",
+    "resource": "logos/resources/Logo - NBA.svg"
+  },
+  {
+    "id": 120,
+    "name": "MLB",
+    "cover": "logos/covers/mlb.svg",
+    "description": "MLB cover image",
+    "resource": "logos/resources/Logo - MLB.svg"
+  },
+  {
+    "id": 121,
+    "name": "NHL",
+    "cover": "logos/covers/nhl.svg",
+    "description": "NHL cover image",
+    "resource": "logos/resources/Logo - NHL.svg"
+  },
+  {
+    "id": 122,
+    "name": "Atlanta United FC",
+    "cover": "logos/covers/atlanta-united-fc.svg",
+    "description": "Atlanta United FC cover image",
+    "resource": "logos/resources/Logo - Atlanta United FC.svg"
+  },
+  {
+    "id": 123,
+    "name": "Austin FC",
+    "cover": "logos/covers/austin-fc.svg",
+    "description": "Austin FC cover image",
+    "resource": "logos/resources/Logo - Austin FC.svg"
+  },
+  {
+    "id": 124,
+    "name": "Charlotte FC",
+    "cover": "logos/covers/charlotte-fc.svg",
+    "description": "Charlotte FC cover image",
+    "resource": "logos/resources/Logo - Charlotte FC.svg"
+  },
+  {
+    "id": 125,
+    "name": "Chicago Fire FC",
+    "cover": "logos/covers/chicago-fire-fc.svg",
+    "description": "Chicago Fire FC cover image",
+    "resource": "logos/resources/Logo - Chicago Fire FC.svg"
+  },
+  {
+    "id": 126,
+    "name": "FC Cincinnati",
+    "cover": "logos/covers/fc-cincinnati.svg",
+    "description": "FC Cincinnati cover image",
+    "resource": "logos/resources/Logo - FC Cincinnati.svg"
+  },
+  {
+    "id": 127,
+    "name": "Colorado Rapids",
+    "cover": "logos/covers/colorado-rapids.svg",
+    "description": "Colorado Rapids cover image",
+    "resource": "logos/resources/Logo - Colorado Rapids.svg"
+  },
+  {
+    "id": 128,
+    "name": "Columbus Crew",
+    "cover": "logos/covers/columbus-crew.svg",
+    "description": "Columbus Crew cover image",
+    "resource": "logos/resources/Logo - Columbus Crew.svg"
+  },
+  {
+    "id": 129,
+    "name": "FC Dallas",
+    "cover": "logos/covers/fc-dallas.svg",
+    "description": "FC Dallas cover image",
+    "resource": "logos/resources/Logo - FC Dallas.svg"
+  },
+  {
+    "id": 130,
+    "name": "D.C. United",
+    "cover": "logos/covers/dc-united.svg",
+    "description": "D.C. United cover image",
+    "resource": "logos/resources/Logo - D.C. United.svg"
+  },
+  {
+    "id": 131,
+    "name": "Houston Dynamo FC",
+    "cover": "logos/covers/houston-dynamo-fc.svg",
+    "description": "Houston Dynamo FC cover image",
+    "resource": "logos/resources/Logo - Houston Dynamo FC.svg"
+  },
+  {
+    "id": 132,
+    "name": "Sporting Kansas City",
+    "cover": "logos/covers/sporting-kansas-city.svg",
+    "description": "Sporting Kansas City cover image",
+    "resource": "logos/resources/Logo - Sporting Kansas City.svg"
+  },
+  {
+    "id": 133,
+    "name": "LA Galaxy",
+    "cover": "logos/covers/la-galaxy.svg",
+    "description": "LA Galaxy cover image",
+    "resource": "logos/resources/Logo - LA Galaxy.svg"
+  },
+  {
+    "id": 134,
+    "name": "Los Angeles Football Club",
+    "cover": "logos/covers/los-angeles-football-club.svg",
+    "description": "Los Angeles Football Club cover image",
+    "resource": "logos/resources/Logo - Los Angeles Football Club.svg"
+  },
+  {
+    "id": 135,
+    "name": "Inter Miami CF",
+    "cover": "logos/covers/inter-miami-cf.svg",
+    "description": "Inter Miami CF cover image",
+    "resource": "logos/resources/Logo - Inter Miami CF.svg"
+  },
+  {
+    "id": 136,
+    "name": "Minnesota United FC",
+    "cover": "logos/covers/minnesota-united-fc.svg",
+    "description": "Minnesota United FC cover image",
+    "resource": "logos/resources/Logo - Minnesota United FC.svg"
+  },
+  {
+    "id": 137,
+    "name": "CF Montréal",
+    "cover": "logos/covers/cf-montréal.svg",
+    "description": "CF Montréal cover image",
+    "resource": "logos/resources/Logo - CF Montréal.svg"
+  },
+  {
+    "id": 138,
+    "name": "Nashville SC",
+    "cover": "logos/covers/nashville-sc.svg",
+    "description": "Nashville SC cover image",
+    "resource": "logos/resources/Logo - Nashville SC.svg"
+  },
+  {
+    "id": 139,
+    "name": "New England Revolution",
+    "cover": "logos/covers/new-england-revolution.svg",
+    "description": "New England Revolution cover image",
+    "resource": "logos/resources/Logo - New England Revolution.svg"
+  },
+  {
+    "id": 140,
+    "name": "New York Red Bulls",
+    "cover": "logos/covers/new-york-red-bulls.svg",
+    "description": "New York Red Bulls cover image",
+    "resource": "logos/resources/Logo - New York Red Bulls.svg"
+  },
+  {
+    "id": 141,
+    "name": "New York City FC",
+    "cover": "logos/covers/new-york-city-fc.svg",
+    "description": "New York City FC cover image",
+    "resource": "logos/resources/Logo - New York City FC.svg"
+  },
+  {
+    "id": 142,
+    "name": "Orlando City",
+    "cover": "logos/covers/orlando-city.svg",
+    "description": "Orlando City cover image",
+    "resource": "logos/resources/Logo - Orlando City.svg"
+  },
+  {
+    "id": 143,
+    "name": "Philadelphia Union",
+    "cover": "logos/covers/philadelphia-union.svg",
+    "description": "Philadelphia Union cover image",
+    "resource": "logos/resources/Logo - Philadelphia Union.svg"
+  },
+  {
+    "id": 144,
+    "name": "Portland Timbers",
+    "cover": "logos/covers/portland-timbers.svg",
+    "description": "Portland Timbers cover image",
+    "resource": "logos/resources/Logo - Portland Timbers.svg"
+  },
+  {
+    "id": 145,
+    "name": "Real Salt Lake",
+    "cover": "logos/covers/real-salt-lake.svg",
+    "description": "Real Salt Lake cover image",
+    "resource": "logos/resources/Logo - Real Salt Lake.svg"
+  },
+  {
+    "id": 146,
+    "name": "San Jose Earthquakes",
+    "cover": "logos/covers/san-jose-earthquakes.svg",
+    "description": "San Jose Earthquakes cover image",
+    "resource": "logos/resources/Logo - San Jose Earthquakes.svg"
+  },
+  {
+    "id": 147,
+    "name": "St. Louis CITY SC",
+    "cover": "logos/covers/st-louis-city-sc.svg",
+    "description": "St. Louis CITY SC cover image",
+    "resource": "logos/resources/Logo - St. Louis CITY SC.svg"
+  },
+  {
+    "id": 148,
+    "name": "Toronto FC",
+    "cover": "logos/covers/toronto-fc.svg",
+    "description": "Toronto FC cover image",
+    "resource": "logos/resources/Logo - Toronto FC.svg"
+  },
+  {
+    "id": 149,
+    "name": "Vancouver Whitecaps FC",
+    "cover": "logos/covers/vancouver-whitecaps-fc.svg",
+    "description": "Vancouver Whitecaps FC cover image",
+    "resource": "logos/resources/Logo - Vancouver Whitecaps FC.svg"
+  },
+  {
+    "id": 150,
+    "name": "LALIGA",
+    "cover": "logos/covers/laliga.svg",
+    "description": "LALIGA cover image",
+    "resource": "logos/resources/Logo - LALIGA.svg"
+  },
+  {
+    "id": 151,
+    "name": "Athletic Club",
+    "cover": "logos/covers/athletic-club.svg",
+    "description": "Athletic Club cover image",
+    "resource": "logos/resources/Logo - Athletic Club.svg"
+  },
+  {
+    "id": 152,
+    "name": "Atlético de Madrid",
+    "cover": "logos/covers/atlético-de-madrid.svg",
+    "description": "Atlético de Madrid cover image",
+    "resource": "logos/resources/Logo - Atlético de Madrid.svg"
+  },
+  {
+    "id": 153,
+    "name": "Osasuna",
+    "cover": "logos/covers/osasuna.svg",
+    "description": "Osasuna cover image",
+    "resource": "logos/resources/Logo - Osasuna.svg"
+  },
+  {
+    "id": 154,
+    "name": "FC Barcelona",
+    "cover": "logos/covers/fc-barcelona.svg",
+    "description": "FC Barcelona cover image",
+    "resource": "logos/resources/Logo - FC Barcelona.svg"
+  },
+  {
+    "id": 155,
+    "name": "RC Celta",
+    "cover": "logos/covers/rc-celta.svg",
+    "description": "RC Celta cover image",
+    "resource": "logos/resources/Logo - RC Celta.svg"
+  },
+  {
+    "id": 156,
+    "name": "RCD Espanyol",
+    "cover": "logos/covers/rcd-espanyol.svg",
+    "description": "RCD Espanyol cover image",
+    "resource": "logos/resources/Logo - RCD Espanyol.svg"
+  },
+  {
+    "id": 157,
+    "name": "Real Betis",
+    "cover": "logos/covers/real-betis.svg",
+    "description": "Real Betis cover image",
+    "resource": "logos/resources/Logo - Real Betis.svg"
+  },
+  {
+    "id": 158,
+    "name": "Valencia CF",
+    "cover": "logos/covers/valencia-cf.svg",
+    "description": "Valencia CF cover image",
+    "resource": "logos/resources/Logo - Valencia CF.svg"
+  },
+  {
+    "id": 159,
+    "name": "Bundesliga",
+    "cover": "logos/covers/bundesliga.svg",
+    "description": "Bundesliga cover image",
+    "resource": "logos/resources/Logo - Bundesliga.svg"
+  },
+  {
+    "id": 160,
+    "name": "FC Augsburg",
+    "cover": "logos/covers/fc-augsburg.svg",
+    "description": "FC Augsburg cover image",
+    "resource": "logos/resources/Logo - FC Augsburg.svg"
+  },
+  {
+    "id": 161,
+    "name": "1. FC Union Berlin",
+    "cover": "logos/covers/1-fc-union-berlin.svg",
+    "description": "1. FC Union Berlin cover image",
+    "resource": "logos/resources/Logo - 1. FC Union Berlin.svg"
+  },
+  {
+    "id": 162,
+    "name": "VfL Bochum 1848",
+    "cover": "logos/covers/vfl-bochum-1848.svg",
+    "description": "VfL Bochum 1848 cover image",
+    "resource": "logos/resources/Logo - VfL Bochum 1848.svg"
+  },
+  {
+    "id": 163,
+    "name": "SV Werder Bremen",
+    "cover": "logos/covers/sv-werder-bremen.svg",
+    "description": "SV Werder Bremen cover image",
+    "resource": "logos/resources/Logo - SV Werder Bremen.svg"
+  },
+  {
+    "id": 164,
+    "name": "FC St. Pauli",
+    "cover": "logos/covers/fc-st-pauli.svg",
+    "description": "FC St. Pauli cover image",
+    "resource": "logos/resources/Logo - FC St. Pauli.svg"
+  },
+  {
+    "id": 165,
+    "name": "Borussia Dortmund",
+    "cover": "logos/covers/borussia-dortmund.svg",
+    "description": "Borussia Dortmund cover image",
+    "resource": "logos/resources/Logo - Borussia Dortmund.svg"
+  },
+  {
+    "id": 166,
+    "name": "Eintracht Frankfurt",
+    "cover": "logos/covers/eintracht-frankfurt.svg",
+    "description": "Eintracht Frankfurt cover image",
+    "resource": "logos/resources/Logo - Eintracht Frankfurt.svg"
+  },
+  {
+    "id": 167,
+    "name": "SC Freiburg",
+    "cover": "logos/covers/sc-freiburg.svg",
+    "description": "SC Freiburg cover image",
+    "resource": "logos/resources/Logo - SC Freiburg.svg"
+  },
+  {
+    "id": 168,
+    "name": "1. FC Heidenheim 1846",
+    "cover": "logos/covers/1-fc-heidenheim-1846.svg",
+    "description": "1. FC Heidenheim 1846 cover image",
+    "resource": "logos/resources/Logo - 1. FC Heidenheim 1846.svg"
+  },
+  {
+    "id": 169,
+    "name": "TSG 1899 Hoffenheim",
+    "cover": "logos/covers/tsg-1899-hoffenheim.svg",
+    "description": "TSG 1899 Hoffenheim cover image",
+    "resource": "logos/resources/Logo - TSG 1899 Hoffenheim.svg"
+  },
+  {
+    "id": 170,
+    "name": "Holstein Kiel",
+    "cover": "logos/covers/holstein-kiel.svg",
+    "description": "Holstein Kiel cover image",
+    "resource": "logos/resources/Logo - Holstein Kiel.svg"
+  },
+  {
+    "id": 171,
+    "name": "RB Leipzig",
+    "cover": "logos/covers/rb-leipzig.svg",
+    "description": "RB Leipzig cover image",
+    "resource": "logos/resources/Logo - RB Leipzig.svg"
+  },
+  {
+    "id": 172,
+    "name": "Bayer 04 Leverkusen",
+    "cover": "logos/covers/bayer-04-leverkusen.svg",
+    "description": "Bayer 04 Leverkusen cover image",
+    "resource": "logos/resources/Logo - Bayer 04 Leverkusen.svg"
+  },
+  {
+    "id": 173,
+    "name": "1. FSV Mainz 05",
+    "cover": "logos/covers/1-fsv-mainz-05.svg",
+    "description": "1. FSV Mainz 05 cover image",
+    "resource": "logos/resources/Logo - 1. FSV Mainz 05.svg"
+  },
+  {
+    "id": 174,
+    "name": "Borussia Mönchengladbach",
+    "cover": "logos/covers/borussia-mönchengladbach.svg",
+    "description": "Borussia Mönchengladbach cover image",
+    "resource": "logos/resources/Logo - Borussia Mönchengladbach.svg"
+  },
+  {
+    "id": 175,
+    "name": "FC Bayern München",
+    "cover": "logos/covers/fc-bayern-münchen.svg",
+    "description": "FC Bayern München cover image",
+    "resource": "logos/resources/Logo - FC Bayern München.svg"
+  },
+  {
+    "id": 176,
+    "name": "VfB Stuttgart",
+    "cover": "logos/covers/vfb-stuttgart.svg",
+    "description": "VfB Stuttgart cover image",
+    "resource": "logos/resources/Logo - VfB Stuttgart.svg"
+  },
+  {
+    "id": 177,
+    "name": "VfL Wolfsburg",
+    "cover": "logos/covers/vfl-wolfsburg.svg",
+    "description": "VfL Wolfsburg cover image",
+    "resource": "logos/resources/Logo - VfL Wolfsburg.svg"
   }
 ]
