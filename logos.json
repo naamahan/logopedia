@@ -1237,5 +1237,355 @@
     "cover": "logos/covers/vfl-wolfsburg.svg",
     "description": "VfL Wolfsburg cover image",
     "resource": "logos/resources/Logo - VfL Wolfsburg.svg"
+  },
+  {
+    "id": 178,
+    "name": "BrickLink",
+    "cover": "logos/covers/bricklink.svg",
+    "description": "BrickLink cover image",
+    "resource": "logos/resources/Logo - BrickLink.svg"
+  },
+  {
+    "id": 179,
+    "name": "CIT Bank",
+    "cover": "logos/covers/cit-bank.svg",
+    "description": "CIT Bank cover image",
+    "resource": "logos/resources/Logo - CIT Bank.svg"
+  },
+  {
+    "id": 180,
+    "name": "Credit Sesame",
+    "cover": "logos/covers/credit-sesame.svg",
+    "description": "Credit Sesame cover image",
+    "resource": "logos/resources/Logo - Credit Sesame.svg"
+  },
+  {
+    "id": 181,
+    "name": "M&T Bank",
+    "cover": "logos/covers/m&t-bank.svg",
+    "description": "M&T Bank cover image",
+    "resource": "logos/resources/Logo - M&T Bank.svg"
+  },
+  {
+    "id": 182,
+    "name": "FNBO",
+    "cover": "logos/covers/fnbo.svg",
+    "description": "FNBO cover image",
+    "resource": "logos/resources/Logo - FNBO.svg"
+  },
+  {
+    "id": 183,
+    "name": "Fifth Third Bank",
+    "cover": "logos/covers/fifth-third-bank.svg",
+    "description": "Fifth Third Bank cover image",
+    "resource": "logos/resources/Logo - Fifth Third Bank.svg"
+  },
+  {
+    "id": 184,
+    "name": "Acorns Icon",
+    "cover": "logos/covers/acorns-icon.svg",
+    "description": "Acorns Icon cover image",
+    "resource": "logos/resources/Logo - Acorns Icon.svg"
+  },
+  {
+    "id": 185,
+    "name": "Axos Bank",
+    "cover": "logos/covers/axos-bank.svg",
+    "description": "Axos Bank cover image",
+    "resource": "logos/resources/Logo - Axos Bank.svg"
+  },
+  {
+    "id": 186,
+    "name": "Bask Bank",
+    "cover": "logos/covers/bask-bank.svg",
+    "description": "Bask Bank cover image",
+    "resource": "logos/resources/Logo - Bask Bank.svg"
+  },
+  {
+    "id": 187,
+    "name": "BECU",
+    "cover": "logos/covers/becu.svg",
+    "description": "BECU cover image",
+    "resource": "logos/resources/Logo - BECU.svg"
+  },
+  {
+    "id": 188,
+    "name": "BMO",
+    "cover": "logos/covers/bmo.svg",
+    "description": "BMO cover image",
+    "resource": "logos/resources/Logo - BMO.svg"
+  },
+  {
+    "id": 189,
+    "name": "BMO Alto",
+    "cover": "logos/covers/bmo-alto.svg",
+    "description": "BMO Alto cover image",
+    "resource": "logos/resources/Logo - BMO Alto.svg"
+  },
+  {
+    "id": 190,
+    "name": "BOK Financial",
+    "cover": "logos/covers/bok-financial.svg",
+    "description": "BOK Financial cover image",
+    "resource": "logos/resources/Logo - BOK Financial.svg"
+  },
+  {
+    "id": 191,
+    "name": "Nationwide",
+    "cover": "logos/covers/nationwide.svg",
+    "description": "Nationwide cover image",
+    "resource": "logos/resources/Logo - Nationwide.svg"
+  },
+  {
+    "id": 192,
+    "name": "Bread Financial",
+    "cover": "logos/covers/bread-financial.svg",
+    "description": "Bread Financial cover image",
+    "resource": "logos/resources/Logo - Bread Financial.svg"
+  },
+  {
+    "id": 193,
+    "name": "Chime",
+    "cover": "logos/covers/chime.svg",
+    "description": "Chime cover image",
+    "resource": "logos/resources/Logo - Chime.svg"
+  },
+  {
+    "id": 194,
+    "name": "City National Bank",
+    "cover": "logos/covers/city-national-bank.svg",
+    "description": "City National Bank cover image",
+    "resource": "logos/resources/Logo - City National Bank.svg"
+  },
+  {
+    "id": 195,
+    "name": "Comerica",
+    "cover": "logos/covers/comerica.svg",
+    "description": "Comerica cover image",
+    "resource": "logos/resources/Logo - Comerica.svg"
+  },
+  {
+    "id": 196,
+    "name": "Dave",
+    "cover": "logos/covers/dave.svg",
+    "description": "Dave cover image",
+    "resource": "logos/resources/Logo - Dave.svg"
+  },
+  {
+    "id": 197,
+    "name": "Empower",
+    "cover": "logos/covers/empower-me.svg",
+    "description": "Empower cover image",
+    "resource": "logos/resources/Logo - Empower.svg"
+  },
+  {
+    "id": 198,
+    "name": "Empower",
+    "cover": "logos/covers/empower.svg",
+    "description": "Empower cover image",
+    "resource": "logos/resources/Logo - Empower.svg"
+  },
+  {
+    "id": 199,
+    "name": "KeyBank",
+    "cover": "logos/covers/keybank.svg",
+    "description": "KeyBank cover image",
+    "resource": "logos/resources/Logo - KeyBank.svg"
+  },
+  {
+    "id": 200,
+    "name": "First Horizon Bank",
+    "cover": "logos/covers/first-horizon-bank.svg",
+    "description": "First Horizon Bank cover image",
+    "resource": "logos/resources/Logo - First Horizon Bank.svg"
+  },
+  {
+    "id": 201,
+    "name": "First National Bank",
+    "cover": "logos/covers/first-national-bank.svg",
+    "description": "First National Bank cover image",
+    "resource": "logos/resources/Logo - First National Bank.svg"
+  },
+  {
+    "id": 202,
+    "name": "Frost Bank",
+    "cover": "logos/covers/frost-bank.svg",
+    "description": "Frost Bank cover image",
+    "resource": "logos/resources/Logo - Frost Bank.svg"
+  },
+  {
+    "id": 203,
+    "name": "Go2Bank",
+    "cover": "logos/covers/go2bank.svg",
+    "description": "Go2Bank cover image",
+    "resource": "logos/resources/Logo - Go2Bank.svg"
+  },
+  {
+    "id": 204,
+    "name": "Golden 1 Credit Union",
+    "cover": "logos/covers/golden-1-credit-union.svg",
+    "description": "Golden 1 Credit Union cover image",
+    "resource": "logos/resources/Logo - Golden 1 Credit Union.svg"
+  },
+  {
+    "id": 205,
+    "name": "HSBC",
+    "cover": "logos/covers/hsbc.svg",
+    "description": "HSBC cover image",
+    "resource": "logos/resources/Logo - HSBC.svg"
+  },
+  {
+    "id": 206,
+    "name": "WaFd Bank",
+    "cover": "logos/covers/wafd-bank.svg",
+    "description": "WaFd Bank cover image",
+    "resource": "logos/resources/Logo - WaFd Bank.svg"
+  },
+  {
+    "id": 207,
+    "name": "JPMorganChase",
+    "cover": "logos/covers/jpmorganchase.svg",
+    "description": "JPMorganChase cover image",
+    "resource": "logos/resources/Logo - JPMorganChase.svg"
+  },
+  {
+    "id": 208,
+    "name": "J.P. Morgan",
+    "cover": "logos/covers/jp-morgan.svg",
+    "description": "J.P. Morgan cover image",
+    "resource": "logos/resources/Logo - J.P. Morgan.svg"
+  },
+  {
+    "id": 209,
+    "name": "LendingClub",
+    "cover": "logos/covers/lendingclub.svg",
+    "description": "LendingClub cover image",
+    "resource": "logos/resources/Logo - LendingClub.svg"
+  },
+  {
+    "id": 210,
+    "name": "Huntington Bank",
+    "cover": "logos/covers/huntington-bank.svg",
+    "description": "Huntington Bank cover image",
+    "resource": "logos/resources/Logo - Huntington Bank.svg"
+  },
+  {
+    "id": 211,
+    "name": "Citizens",
+    "cover": "logos/covers/citizens.svg",
+    "description": "Citizens cover image",
+    "resource": "logos/resources/Logo - Citizens.svg"
+  },
+  {
+    "id": 212,
+    "name": "U.S. Bank",
+    "cover": "logos/covers/us-bank.svg",
+    "description": "U.S. Bank cover image",
+    "resource": "logos/resources/Logo - U.S. Bank.svg"
+  },
+  {
+    "id": 213,
+    "name": "EverBank",
+    "cover": "logos/covers/everbank.svg",
+    "description": "EverBank cover image",
+    "resource": "logos/resources/Logo - EverBank.svg"
+  },
+  {
+    "id": 214,
+    "name": "SouthState Bank",
+    "cover": "logos/covers/southstate-bank.svg",
+    "description": "SouthState Bank cover image",
+    "resource": "logos/resources/Logo - SouthState Bank.svg"
+  },
+  {
+    "id": 215,
+    "name": "Texas Capital Bank",
+    "cover": "logos/covers/texas-capital-bank.svg",
+    "description": "Texas Capital Bank cover image",
+    "resource": "logos/resources/Logo - Texas Capital Bank.svg"
+  },
+  {
+    "id": 216,
+    "name": "Truist Bank",
+    "cover": "logos/covers/truist-bank.svg",
+    "description": "Truist Bank cover image",
+    "resource": "logos/resources/Logo - Truist Bank.svg"
+  },
+  {
+    "id": 217,
+    "name": "United Bank of Georgia",
+    "cover": "logos/covers/united-bank-of-georgia.svg",
+    "description": "United Bank of Georgia cover image",
+    "resource": "logos/resources/Logo - United Bank of Georgia.svg"
+  },
+  {
+    "id": 218,
+    "name": "VirtualBank",
+    "cover": "logos/covers/virtualbank.svg",
+    "description": "VirtualBank cover image",
+    "resource": "logos/resources/Logo - VirtualBank.svg"
+  },
+  {
+    "id": 219,
+    "name": "Wealthfront",
+    "cover": "logos/covers/wealthfront.svg",
+    "description": "Wealthfront cover image",
+    "resource": "logos/resources/Logo - Wealthfront.svg"
+  },
+  {
+    "id": 220,
+    "name": "Revolut",
+    "cover": "logos/covers/revolut.svg",
+    "description": "Revolut cover image",
+    "resource": "logos/resources/Logo - Revolut.svg"
+  },
+  {
+    "id": 221,
+    "name": "Current",
+    "cover": "logos/covers/current.svg",
+    "description": "Current cover image",
+    "resource": "logos/resources/Logo - Current.svg"
+  },
+  {
+    "id": 222,
+    "name": "Varo",
+    "cover": "logos/covers/varo.svg",
+    "description": "Varo cover image",
+    "resource": "logos/resources/Logo - Varo.svg"
+  },
+  {
+    "id": 223,
+    "name": "United Nations Federal Credit Union",
+    "cover": "logos/covers/united-nations-federal-credit-union.svg",
+    "description": "United Nations Federal Credit Union cover image",
+    "resource": "logos/resources/Logo - United Nations Federal Credit Union.svg"
+  },
+  {
+    "id": 224,
+    "name": "Sallie Mae",
+    "cover": "logos/covers/sallie-mae.svg",
+    "description": "Sallie Mae cover image",
+    "resource": "logos/resources/Logo - Sallie Mae.svg"
+  },
+  {
+    "id": 225,
+    "name": "Jenius Bank",
+    "cover": "logos/covers/jenius-bank.svg",
+    "description": "Jenius Bank cover image",
+    "resource": "logos/resources/Logo - Jenius Bank.svg"
+  },
+  {
+    "id": 226,
+    "name": "Nubank",
+    "cover": "logos/covers/nubank.svg",
+    "description": "Nubank cover image",
+    "resource": "logos/resources/Logo - Nubank.svg"
+  },
+  {
+    "id": 227,
+    "name": "Medium",
+    "cover": "logos/covers/medium.svg",
+    "description": "Medium cover image",
+    "resource": "logos/resources/Logo - Medium.svg"
   }
 ]

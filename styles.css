@@ -111,7 +111,18 @@ a {
 }
 
 .navigation {
+  position: relative;
   margin-bottom: var(--s-24);
+}
+
+.github-icon {
+  position: absolute;
+  right: var(--s-32);
+  color: var(--primary-black);
+}
+
+.github-icon:hover {
+  color: var(--neutral-600);
 }
 
 footer {
@@ -259,6 +270,10 @@ footer {
 }
 
 @media (min-width: 1024px) {
+  .navigation {
+    max-width: 68rem;
+    margin-inline: auto;
+  }
   .headline {
     font-size: var(--h-m);
     max-width: 26rem;
