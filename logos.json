@@ -43,10 +43,10 @@
   },
   {
     "id": 7,
-    "name": "PlayStation",
-    "cover": "logos/covers/playstation.svg",
-    "description": "PlayStation cover image",
-    "resource": "logos/resources/Logo - PlayStation.svg"
+    "name": "PlayStation Icon",
+    "cover": "logos/covers/playstation-icon.svg",
+    "description": "PlayStation Icon cover image",
+    "resource": "logos/resources/Logo - PlayStation Icon.svg"
   },
   {
     "id": 8,
@@ -2434,5 +2434,642 @@
     "cover": "logos/covers/stripe.svg",
     "description": "Stripe cover image",
     "resource": "logos/resources/Logo - Stripe.svg"
+  },
+  {
+    "id": 349,
+    "name": "Farmers Insurance Federal Credit Union",
+    "cover": "logos/covers/farmers-insurance-federal-credit-union.svg",
+    "description": "Farmers Insurance Federal Credit Union cover image",
+    "resource": "logos/resources/Logo - Farmers Insurance Federal Credit Union.svg"
+  },
+  {
+    "id": 350,
+    "name": "Facet",
+    "cover": "logos/covers/facet.svg",
+    "description": "Facet cover image",
+    "resource": "logos/resources/Logo - Facet.svg"
+  },
+  {
+    "id": 351,
+    "name": "Fruitful",
+    "cover": "logos/covers/fruitful.svg",
+    "description": "Fruitful cover image",
+    "resource": "logos/resources/Logo - Fruitful.svg"
+  },
+  {
+    "id": 352,
+    "name": "Domain Money",
+    "cover": "logos/covers/domain-money.svg",
+    "description": "Domain Money cover image",
+    "resource": "logos/resources/Logo - Domain Money.svg"
+  },
+  {
+    "id": 353,
+    "name": "Olympics",
+    "cover": "logos/covers/olympics.svg",
+    "description": "Olympics cover image",
+    "resource": "logos/resources/Logo - Olympics.svg"
+  },
+  {
+    "id": 354,
+    "name": "Xbox",
+    "cover": "logos/covers/xbox.svg",
+    "description": "Xbox cover image",
+    "resource": "logos/resources/Logo - Xbox.svg"
+  },
+  {
+    "id": 355,
+    "name": "Xbox Icon",
+    "cover": "logos/covers/xbox-icon.svg",
+    "description": "Xbox Icon cover image",
+    "resource": "logos/resources/Logo - Xbox Icon.svg"
+  },
+  {
+    "id": 356,
+    "name": "Xbox Game Pass",
+    "cover": "logos/covers/xbox-game-pass.svg",
+    "description": "Xbox Game Pass cover image",
+    "resource": "logos/resources/Logo - Xbox Game Pass.svg"
+  },
+  {
+    "id": 357,
+    "name": "PlayStation",
+    "cover": "logos/covers/playstation.svg",
+    "description": "PlayStation cover image",
+    "resource": "logos/resources/Logo - PlayStation.svg"
+  },
+  {
+    "id": 358,
+    "name": "Sony Interactive Entertainment",
+    "cover": "logos/covers/sony-interactive-entertainment.svg",
+    "description": "Sony Interactive Entertainment cover image",
+    "resource": "logos/resources/Logo - Sony Interactive Entertainment.svg"
+  },
+  {
+    "id": 359,
+    "name": "Santa Monica Studio",
+    "cover": "logos/covers/santa-monica-studio.svg",
+    "description": "Santa Monica Studio cover image",
+    "resource": "logos/resources/Logo - Santa Monica Studio.svg"
+  },
+  {
+    "id": 360,
+    "name": "Steam",
+    "cover": "logos/covers/steam.svg",
+    "description": "Steam cover image",
+    "resource": "logos/resources/Logo - Steam.svg"
+  },
+  {
+    "id": 361,
+    "name": "Steam Icon",
+    "cover": "logos/covers/steam-icon.svg",
+    "description": "Steam Icon cover image",
+    "resource": "logos/resources/Logo - Steam Icon.svg"
+  },
+  {
+    "id": 362,
+    "name": "IKEA",
+    "cover": "logos/covers/ikea.svg",
+    "description": "IKEA cover image",
+    "resource": "logos/resources/Logo - IKEA.svg"
+  },
+  {
+    "id": 363,
+    "name": "IBM",
+    "cover": "logos/covers/ibm.svg",
+    "description": "IBM cover image",
+    "resource": "logos/resources/Logo - IBM.svg"
+  },
+  {
+    "id": 364,
+    "name": "Boston Celtics",
+    "cover": "logos/covers/boston-celtics.svg",
+    "description": "Boston Celtics cover image",
+    "resource": "logos/resources/Logo - Boston Celtics.svg"
+  },
+  {
+    "id": 365,
+    "name": "Brooklyn Nets",
+    "cover": "logos/covers/brooklyn-nets.svg",
+    "description": "Brooklyn Nets cover image",
+    "resource": "logos/resources/Logo - Brooklyn Nets.svg"
+  },
+  {
+    "id": 366,
+    "name": "New York Knicks",
+    "cover": "logos/covers/new-york-knicks.svg",
+    "description": "New York Knicks cover image",
+    "resource": "logos/resources/Logo - New York Knicks.svg"
+  },
+  {
+    "id": 367,
+    "name": "Philadelphia 76ers",
+    "cover": "logos/covers/philadelphia-76ers.svg",
+    "description": "Philadelphia 76ers cover image",
+    "resource": "logos/resources/Logo - Philadelphia 76ers.svg"
+  },
+  {
+    "id": 368,
+    "name": "Toronto Raptors",
+    "cover": "logos/covers/toronto-raptors.svg",
+    "description": "Toronto Raptors cover image",
+    "resource": "logos/resources/Logo - Toronto Raptors.svg"
+  },
+  {
+    "id": 369,
+    "name": "Chicago Bulls",
+    "cover": "logos/covers/chicago-bulls.svg",
+    "description": "Chicago Bulls cover image",
+    "resource": "logos/resources/Logo - Chicago Bulls.svg"
+  },
+  {
+    "id": 370,
+    "name": "Cleveland Cavaliers",
+    "cover": "logos/covers/cleveland-cavaliers.svg",
+    "description": "Cleveland Cavaliers cover image",
+    "resource": "logos/resources/Logo - Cleveland Cavaliers.svg"
+  },
+  {
+    "id": 371,
+    "name": "Detroit Pistons",
+    "cover": "logos/covers/detroit-pistons.svg",
+    "description": "Detroit Pistons cover image",
+    "resource": "logos/resources/Logo - Detroit Pistons.svg"
+  },
+  {
+    "id": 372,
+    "name": "Indiana Pacers",
+    "cover": "logos/covers/indiana-pacers.svg",
+    "description": "Indiana Pacers cover image",
+    "resource": "logos/resources/Logo - Indiana Pacers.svg"
+  },
+  {
+    "id": 373,
+    "name": "Milwaukee Bucks",
+    "cover": "logos/covers/milwaukee-bucks.svg",
+    "description": "Milwaukee Bucks cover image",
+    "resource": "logos/resources/Logo - Milwaukee Bucks.svg"
+  },
+  {
+    "id": 374,
+    "name": "Atlanta Hawks",
+    "cover": "logos/covers/atlanta-hawks.svg",
+    "description": "Atlanta Hawks cover image",
+    "resource": "logos/resources/Logo - Atlanta Hawks.svg"
+  },
+  {
+    "id": 375,
+    "name": "Charlotte Hornets",
+    "cover": "logos/covers/charlotte-hornets.svg",
+    "description": "Charlotte Hornets cover image",
+    "resource": "logos/resources/Logo - Charlotte Hornets.svg"
+  },
+  {
+    "id": 376,
+    "name": "Miami HEAT",
+    "cover": "logos/covers/miami-heat.svg",
+    "description": "Miami HEAT cover image",
+    "resource": "logos/resources/Logo - Miami HEAT.svg"
+  },
+  {
+    "id": 377,
+    "name": "Orlando Magic",
+    "cover": "logos/covers/orlando-magic.svg",
+    "description": "Orlando Magic cover image",
+    "resource": "logos/resources/Logo - Orlando Magic.svg"
+  },
+  {
+    "id": 378,
+    "name": "Washington Wizards",
+    "cover": "logos/covers/washington-wizards.svg",
+    "description": "Washington Wizards cover image",
+    "resource": "logos/resources/Logo - Washington Wizards.svg"
+  },
+  {
+    "id": 379,
+    "name": "Denver Nuggets",
+    "cover": "logos/covers/denver-nuggets.svg",
+    "description": "Denver Nuggets cover image",
+    "resource": "logos/resources/Logo - Denver Nuggets.svg"
+  },
+  {
+    "id": 380,
+    "name": "Minnesota Timberwolves",
+    "cover": "logos/covers/minnesota-timberwolves.svg",
+    "description": "Minnesota Timberwolves cover image",
+    "resource": "logos/resources/Logo - Minnesota Timberwolves.svg"
+  },
+  {
+    "id": 381,
+    "name": "Oklahoma City Thunder",
+    "cover": "logos/covers/oklahoma-city-thunder.svg",
+    "description": "Oklahoma City Thunder cover image",
+    "resource": "logos/resources/Logo - Oklahoma City Thunder.svg"
+  },
+  {
+    "id": 382,
+    "name": "Portland Trail Blazers",
+    "cover": "logos/covers/portland-trail-blazers.svg",
+    "description": "Portland Trail Blazers cover image",
+    "resource": "logos/resources/Logo - Portland Trail Blazers.svg"
+  },
+  {
+    "id": 383,
+    "name": "Utah Jazz",
+    "cover": "logos/covers/utah-jazz.svg",
+    "description": "Utah Jazz cover image",
+    "resource": "logos/resources/Logo - Utah Jazz.svg"
+  },
+  {
+    "id": 384,
+    "name": "Golden State Warriors",
+    "cover": "logos/covers/golden-state-warriors.svg",
+    "description": "Golden State Warriors cover image",
+    "resource": "logos/resources/Logo - Golden State Warriors.svg"
+  },
+  {
+    "id": 385,
+    "name": "LA Clippers",
+    "cover": "logos/covers/la-clippers.svg",
+    "description": "LA Clippers cover image",
+    "resource": "logos/resources/Logo - LA Clippers.svg"
+  },
+  {
+    "id": 386,
+    "name": "LA Lakers",
+    "cover": "logos/covers/la-lakers.svg",
+    "description": "LA Lakers cover image",
+    "resource": "logos/resources/Logo - LA Lakers.svg"
+  },
+  {
+    "id": 387,
+    "name": "Phoenix Suns",
+    "cover": "logos/covers/phoenix-suns.svg",
+    "description": "Phoenix Suns cover image",
+    "resource": "logos/resources/Logo - Phoenix Suns.svg"
+  },
+  {
+    "id": 388,
+    "name": "Sacramento Kings",
+    "cover": "logos/covers/sacramento-kings.svg",
+    "description": "Sacramento Kings cover image",
+    "resource": "logos/resources/Logo - Sacramento Kings.svg"
+  },
+  {
+    "id": 389,
+    "name": "Dallas Mavericks",
+    "cover": "logos/covers/dallas-mavericks.svg",
+    "description": "Dallas Mavericks cover image",
+    "resource": "logos/resources/Logo - Dallas Mavericks.svg"
+  },
+  {
+    "id": 390,
+    "name": "Houston Rockets",
+    "cover": "logos/covers/houston-rockets.svg",
+    "description": "Houston Rockets cover image",
+    "resource": "logos/resources/Logo - Houston Rockets.svg"
+  },
+  {
+    "id": 391,
+    "name": "Memphis Grizzlies",
+    "cover": "logos/covers/memphis-grizzlies.svg",
+    "description": "Memphis Grizzlies cover image",
+    "resource": "logos/resources/Logo - Memphis Grizzlies.svg"
+  },
+  {
+    "id": 392,
+    "name": "New Orleans Pelicans",
+    "cover": "logos/covers/new-orleans-pelicans.svg",
+    "description": "New Orleans Pelicans cover image",
+    "resource": "logos/resources/Logo - New Orleans Pelicans.svg"
+  },
+  {
+    "id": 393,
+    "name": "San Antonio Spurs",
+    "cover": "logos/covers/san-antonio-spurs.svg",
+    "description": "San Antonio Spurs cover image",
+    "resource": "logos/resources/Logo - San Antonio Spurs.svg"
+  },
+  {
+    "id": 394,
+    "name": "Baltimore Ravens",
+    "cover": "logos/covers/baltimore-ravens.svg",
+    "description": "Baltimore Ravens cover image",
+    "resource": "logos/resources/Logo - Baltimore Ravens.svg"
+  },
+  {
+    "id": 395,
+    "name": "Cincinnati Bengals",
+    "cover": "logos/covers/cincinnati-bengals.svg",
+    "description": "Cincinnati Bengals cover image",
+    "resource": "logos/resources/Logo - Cincinnati Bengals.svg"
+  },
+  {
+    "id": 396,
+    "name": "Cleveland Browns",
+    "cover": "logos/covers/cleveland-browns.svg",
+    "description": "Cleveland Browns cover image",
+    "resource": "logos/resources/Logo - Cleveland Browns.svg"
+  },
+  {
+    "id": 397,
+    "name": "Pittsburgh Steelers",
+    "cover": "logos/covers/pittsburgh-steelers.svg",
+    "description": "Pittsburgh Steelers cover image",
+    "resource": "logos/resources/Logo - Pittsburgh Steelers.svg"
+  },
+  {
+    "id": 398,
+    "name": "Buffalo Bills",
+    "cover": "logos/covers/buffalo-bills.svg",
+    "description": "Buffalo Bills cover image",
+    "resource": "logos/resources/Logo - Buffalo Bills.svg"
+  },
+  {
+    "id": 399,
+    "name": "Miami Dolphins",
+    "cover": "logos/covers/miami-dolphins.svg",
+    "description": "Miami Dolphins cover image",
+    "resource": "logos/resources/Logo - Miami Dolphins.svg"
+  },
+  {
+    "id": 400,
+    "name": "New England Patriots",
+    "cover": "logos/covers/new-england-patriots.svg",
+    "description": "New England Patriots cover image",
+    "resource": "logos/resources/Logo - New England Patriots.svg"
+  },
+  {
+    "id": 401,
+    "name": "New York Jets",
+    "cover": "logos/covers/new-york-jets.svg",
+    "description": "New York Jets cover image",
+    "resource": "logos/resources/Logo - New York Jets.svg"
+  },
+  {
+    "id": 402,
+    "name": "Houston Texans",
+    "cover": "logos/covers/houston-texans.svg",
+    "description": "Houston Texans cover image",
+    "resource": "logos/resources/Logo - Houston Texans.svg"
+  },
+  {
+    "id": 403,
+    "name": "Indianapolis Colts",
+    "cover": "logos/covers/indianapolis-colts.svg",
+    "description": "Indianapolis Colts cover image",
+    "resource": "logos/resources/Logo - Indianapolis Colts.svg"
+  },
+  {
+    "id": 404,
+    "name": "Jacksonville Jaguars",
+    "cover": "logos/covers/jacksonville-jaguars.svg",
+    "description": "Jacksonville Jaguars cover image",
+    "resource": "logos/resources/Logo - Jacksonville Jaguars.svg"
+  },
+  {
+    "id": 405,
+    "name": "Tennessee Titans",
+    "cover": "logos/covers/tennessee-titans.svg",
+    "description": "Tennessee Titans cover image",
+    "resource": "logos/resources/Logo - Tennessee Titans.svg"
+  },
+  {
+    "id": 406,
+    "name": "Denver Broncos",
+    "cover": "logos/covers/denver-broncos.svg",
+    "description": "Denver Broncos cover image",
+    "resource": "logos/resources/Logo - Denver Broncos.svg"
+  },
+  {
+    "id": 407,
+    "name": "Kansas City Chiefs",
+    "cover": "logos/covers/kansas-city-chiefs.svg",
+    "description": "Kansas City Chiefs cover image",
+    "resource": "logos/resources/Logo - Kansas City Chiefs.svg"
+  },
+  {
+    "id": 408,
+    "name": "Las Vegas Raiders",
+    "cover": "logos/covers/las-vegas-raiders.svg",
+    "description": "Las Vegas Raiders cover image",
+    "resource": "logos/resources/Logo - Las Vegas Raiders.svg"
+  },
+  {
+    "id": 409,
+    "name": "Los Angeles Chargers",
+    "cover": "logos/covers/los-angeles-chargers.svg",
+    "description": "Los Angeles Chargers cover image",
+    "resource": "logos/resources/Logo - Los Angeles Chargers.svg"
+  },
+  {
+    "id": 410,
+    "name": "Chicago Bears",
+    "cover": "logos/covers/chicago-bears.svg",
+    "description": "Chicago Bears cover image",
+    "resource": "logos/resources/Logo - Chicago Bears.svg"
+  },
+  {
+    "id": 411,
+    "name": "Detroit Lions",
+    "cover": "logos/covers/detroit-lions.svg",
+    "description": "Detroit Lions cover image",
+    "resource": "logos/resources/Logo - Detroit Lions.svg"
+  },
+  {
+    "id": 412,
+    "name": "Green Bay Packers",
+    "cover": "logos/covers/green-bay-packers.svg",
+    "description": "Green Bay Packers cover image",
+    "resource": "logos/resources/Logo - Green Bay Packers.svg"
+  },
+  {
+    "id": 413,
+    "name": "Minnesota Vikings",
+    "cover": "logos/covers/minnesota-vikings.svg",
+    "description": "Minnesota Vikings cover image",
+    "resource": "logos/resources/Logo - Minnesota Vikings.svg"
+  },
+  {
+    "id": 414,
+    "name": "Dallas Cowboys",
+    "cover": "logos/covers/dallas-cowboys.svg",
+    "description": "Dallas Cowboys cover image",
+    "resource": "logos/resources/Logo - Dallas Cowboys.svg"
+  },
+  {
+    "id": 415,
+    "name": "New York Giants",
+    "cover": "logos/covers/new-york-giants.svg",
+    "description": "New York Giants cover image",
+    "resource": "logos/resources/Logo - New York Giants.svg"
+  },
+  {
+    "id": 416,
+    "name": "Philadelphia Eagles",
+    "cover": "logos/covers/philadelphia-eagles.svg",
+    "description": "Philadelphia Eagles cover image",
+    "resource": "logos/resources/Logo - Philadelphia Eagles.svg"
+  },
+  {
+    "id": 417,
+    "name": "Washington Commanders",
+    "cover": "logos/covers/washington-commanders.svg",
+    "description": "Washington Commanders cover image",
+    "resource": "logos/resources/Logo - Washington Commanders.svg"
+  },
+  {
+    "id": 418,
+    "name": "Atlanta Falcons",
+    "cover": "logos/covers/atlanta-falcons.svg",
+    "description": "Atlanta Falcons cover image",
+    "resource": "logos/resources/Logo - Atlanta Falcons.svg"
+  },
+  {
+    "id": 419,
+    "name": "Carolina Panthers",
+    "cover": "logos/covers/carolina-panthers.svg",
+    "description": "Carolina Panthers cover image",
+    "resource": "logos/resources/Logo - Carolina Panthers.svg"
+  },
+  {
+    "id": 420,
+    "name": "New Orleans Saints",
+    "cover": "logos/covers/new-orleans-saints.svg",
+    "description": "New Orleans Saints cover image",
+    "resource": "logos/resources/Logo - New Orleans Saints.svg"
+  },
+  {
+    "id": 421,
+    "name": "Tampa Bay Buccaneers",
+    "cover": "logos/covers/tampa-bay-buccaneers.svg",
+    "description": "Tampa Bay Buccaneers cover image",
+    "resource": "logos/resources/Logo - Tampa Bay Buccaneers.svg"
+  },
+  {
+    "id": 422,
+    "name": "Arizona Cardinals",
+    "cover": "logos/covers/arizona-cardinals.svg",
+    "description": "Arizona Cardinals cover image",
+    "resource": "logos/resources/Logo - Arizona Cardinals.svg"
+  },
+  {
+    "id": 423,
+    "name": "Los Angeles Rams",
+    "cover": "logos/covers/los-angeles-rams.svg",
+    "description": "Los Angeles Rams cover image",
+    "resource": "logos/resources/Logo - Los Angeles Rams.svg"
+  },
+  {
+    "id": 424,
+    "name": "San Francisco 49ers",
+    "cover": "logos/covers/san-francisco-49ers.svg",
+    "description": "San Francisco 49ers cover image",
+    "resource": "logos/resources/Logo - San Francisco 49ers.svg"
+  },
+  {
+    "id": 425,
+    "name": "Seattle Seahawks",
+    "cover": "logos/covers/seattle-seahawks.svg",
+    "description": "Seattle Seahawks cover image",
+    "resource": "logos/resources/Logo - Seattle Seahawks.svg"
+  },
+  {
+    "id": 426,
+    "name": "MLS",
+    "cover": "logos/covers/mls.svg",
+    "description": "MLS cover image",
+    "resource": "logos/resources/Logo - MLS.svg"
+  },
+  {
+    "id": 427,
+    "name": "Seattle Sounders FC",
+    "cover": "logos/covers/seattle-sounders-fc.svg",
+    "description": "Seattle Sounders FC cover image",
+    "resource": "logos/resources/Logo - Seattle Sounders FC.svg"
+  },
+  {
+    "id": 428,
+    "name": "San Diego FC",
+    "cover": "logos/covers/san-diego-fc.svg",
+    "description": "San Diego FC cover image",
+    "resource": "logos/resources/Logo - San Diego FC.svg"
+  },
+  {
+    "id": 429,
+    "name": "LALIGA Icon",
+    "cover": "logos/covers/laliga-icon.svg",
+    "description": "LALIGA Icon cover image",
+    "resource": "logos/resources/Logo - LALIGA Icon.svg"
+  },
+  {
+    "id": 430,
+    "name": "C.D. Leganés",
+    "cover": "logos/covers/cd-leganés.svg",
+    "description": "C.D. Leganés cover image",
+    "resource": "logos/resources/Logo - C.D. Leganés.svg"
+  },
+  {
+    "id": 431,
+    "name": "Deportivo Alavés",
+    "cover": "logos/covers/deportivo-alaves.svg",
+    "description": "Deportivo Alavés cover image",
+    "resource": "logos/resources/Logo - Deportivo Alavés.svg"
+  },
+  {
+    "id": 432,
+    "name": "Girona FC",
+    "cover": "logos/covers/girona-fc.svg",
+    "description": "Girona FC cover image",
+    "resource": "logos/resources/Logo - Girona FC.svg"
+  },
+  {
+    "id": 434,
+    "name": "Rayo Vallecano",
+    "cover": "logos/covers/rayo-vallecano.svg",
+    "description": "Rayo Vallecano cover image",
+    "resource": "logos/resources/Logo - Rayo Vallecano.svg"
+  },
+  {
+    "id": 435,
+    "name": "RCD Mallorca",
+    "cover": "logos/covers/rcd-mallorca.svg",
+    "description": "RCD Mallorca cover image",
+    "resource": "logos/resources/Logo - RCD Mallorca.svg"
+  },
+  {
+    "id": 436,
+    "name": "Real Madrid CF",
+    "cover": "logos/covers/real-madrid-cf.svg",
+    "description": "Real Madrid CF cover image",
+    "resource": "logos/resources/Logo - Real Madrid CF.svg"
+  },
+  {
+    "id": 437,
+    "name": "Real Sociedad S.A.D",
+    "cover": "logos/covers/real-sociedad-sad.svg",
+    "description": "Real Sociedad S.A.D cover image",
+    "resource": "logos/resources/Logo - Real Sociedad S.A.D.svg"
+  },
+  {
+    "id": 438,
+    "name": "Real Valladolid CF",
+    "cover": "logos/covers/real-valladolid-cf.svg",
+    "description": "Real Valladolid CF cover image",
+    "resource": "logos/resources/Logo - Real Valladolid CF.svg"
+  },
+  {
+    "id": 439,
+    "name": "UD Las Palmas",
+    "cover": "logos/covers/ud-las-palmas.svg",
+    "description": "UD Las Palmas cover image",
+    "resource": "logos/resources/Logo - UD Las Palmas.svg"
+  },
+  {
+    "id": 440,
+    "name": "Villarreal CF",
+    "cover": "logos/covers/villarreal-cf.svg",
+    "description": "Villarreal CF cover image",
+    "resource": "logos/resources/Logo - Villarreal CF.svg"
   }
 ]
