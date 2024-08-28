@@ -3071,5 +3071,418 @@
     "cover": "logos/covers/villarreal-cf.svg",
     "description": "Villarreal CF cover image",
     "resource": "logos/resources/Logo - Villarreal CF.svg"
+  },
+  {
+    "id": 441,
+    "name": "Podchaser",
+    "cover": "logos/covers/podchaser.svg",
+    "description": "Podchaser cover image",
+    "resource": "logos/resources/Logo - Podchaser.svg"
+  },
+  {
+    "id": 442,
+    "name": "Amazon Music",
+    "cover": "logos/covers/amazon-music.svg",
+    "description": "Amazon Music cover image",
+    "resource": "logos/resources/Logo - Amazon Music.svg"
+  },
+  {
+    "id": 443,
+    "name": "YouTube Music",
+    "cover": "logos/covers/youtube-music.svg",
+    "description": "YouTube Music cover image",
+    "resource": "logos/resources/Logo - YouTube Music.svg"
+  },
+  {
+    "id": 444,
+    "name": "Apple Podcasts Icon",
+    "cover": "logos/covers/apple-podcasts-icon.svg",
+    "description": "Apple Podcasts Icon cover image",
+    "resource": "logos/resources/Logo - Apple Podcasts Icon.svg"
+  },
+  {
+    "id": 445,
+    "name": "Overcast",
+    "cover": "logos/covers/overcast.svg",
+    "description": "Overcast cover image",
+    "resource": "logos/resources/Logo - Overcast.svg"
+  },
+  {
+    "id": 446,
+    "name": "Audible",
+    "cover": "logos/covers/audible.svg",
+    "description": "Audible cover image",
+    "resource": "logos/resources/Logo - Audible.svg"
+  },
+  {
+    "id": 447,
+    "name": "Docker",
+    "cover": "logos/covers/docker.svg",
+    "description": "Docker cover image",
+    "resource": "logos/resources/Logo - Docker.svg"
+  },
+  {
+    "id": 448,
+    "name": "Thunderbird",
+    "cover": "logos/covers/thunderbird.svg",
+    "description": "Thunderbird cover image",
+    "resource": "logos/resources/Logo - Thunderbird.svg"
+  },
+  {
+    "id": 449,
+    "name": "Inkscape",
+    "cover": "logos/covers/inkscape.svg",
+    "description": "Inkscape cover image",
+    "resource": "logos/resources/Logo - Inkscape.svg"
+  },
+  {
+    "id": 450,
+    "name": "Framer",
+    "cover": "logos/covers/framer.svg",
+    "description": "Framer cover image",
+    "resource": "logos/resources/Logo - Framer.svg"
+  },
+  {
+    "id": 451,
+    "name": "Android Icon",
+    "cover": "logos/covers/android-icon.svg",
+    "description": "Android Icon cover image",
+    "resource": "logos/resources/Logo - Android Icon.svg"
+  },
+  {
+    "id": 452,
+    "name": "Google",
+    "cover": "logos/covers/google.svg",
+    "description": "Google cover image",
+    "resource": "logos/resources/Logo - Google.svg"
+  },
+  {
+    "id": 453,
+    "name": "Gumroad",
+    "cover": "logos/covers/gumroad.svg",
+    "description": "Gumroad cover image",
+    "resource": "logos/resources/Logo - Gumroad.svg"
+  },
+  {
+    "id": 454,
+    "name": "Patreon",
+    "cover": "logos/covers/patreon.svg",
+    "description": "Patreon cover image",
+    "resource": "logos/resources/Logo - Patreon.svg"
+  },
+  {
+    "id": 455,
+    "name": "Patreon Icon",
+    "cover": "logos/covers/patreon-icon.svg",
+    "description": "Patreon Icon cover image",
+    "resource": "logos/resources/Logo - Patreon Icon.svg"
+  },
+  {
+    "id": 456,
+    "name": "MSNBC",
+    "cover": "logos/covers/msnbc.svg",
+    "description": "MSNBC cover image",
+    "resource": "logos/resources/Logo - MSNBC.svg"
+  },
+  {
+    "id": 457,
+    "name": "Unilever",
+    "cover": "logos/covers/unilever.svg",
+    "description": "Unilever cover image",
+    "resource": "logos/resources/Logo - Unilever.svg"
+  },
+  {
+    "id": 458,
+    "name": "Procter & Gamble",
+    "cover": "logos/covers/procter-and-gamble.svg",
+    "description": "Procter & Gamble cover image",
+    "resource": "logos/resources/Logo - Procter & Gamble.svg"
+  },
+  {
+    "id": 459,
+    "name": "Tide",
+    "cover": "logos/covers/tide.svg",
+    "description": "Tide cover image",
+    "resource": "logos/resources/Logo - Tide.svg"
+  },
+  {
+    "id": 460,
+    "name": "Downy",
+    "cover": "logos/covers/downy.svg",
+    "description": "Downy cover image",
+    "resource": "logos/resources/Logo - Downy.svg"
+  },
+  {
+    "id": 461,
+    "name": "Bounce",
+    "cover": "logos/covers/bounce.svg",
+    "description": "Bounce cover image",
+    "resource": "logos/resources/Logo - Bounce.svg"
+  },
+  {
+    "id": 462,
+    "name": "Mars",
+    "cover": "logos/covers/mars.svg",
+    "description": "Mars cover image",
+    "resource": "logos/resources/Logo - Mars.svg"
+  },
+  {
+    "id": 463,
+    "name": "M&M's",
+    "cover": "logos/covers/mms.svg",
+    "description": "M&M's cover image",
+    "resource": "logos/resources/Logo - M&M's.svg"
+  },
+  {
+    "id": 464,
+    "name": "Carolina Hurricanes",
+    "cover": "logos/covers/carolina-hurricanes.svg",
+    "description": "Carolina Hurricanes cover image",
+    "resource": "logos/resources/Logo - Carolina Hurricanes.svg"
+  },
+  {
+    "id": 465,
+    "name": "Boston Bruins",
+    "cover": "logos/covers/boston-bruins.svg",
+    "description": "Boston Bruins cover image",
+    "resource": "logos/resources/Logo - Boston Bruins.svg"
+  },
+  {
+    "id": 466,
+    "name": "Columbus Blue Jackets",
+    "cover": "logos/covers/columbus-blue-jackets.svg",
+    "description": "Columbus Blue Jackets cover image",
+    "resource": "logos/resources/Logo - Columbus Blue Jackets.svg"
+  },
+  {
+    "id": 467,
+    "name": "Buffalo Sabres",
+    "cover": "logos/covers/buffalo-sabres.svg",
+    "description": "Buffalo Sabres cover image",
+    "resource": "logos/resources/Logo - Buffalo Sabres.svg"
+  },
+  {
+    "id": 468,
+    "name": "New Jersey Devils",
+    "cover": "logos/covers/new-jersey-devils.svg",
+    "description": "New Jersey Devils cover image",
+    "resource": "logos/resources/Logo - New Jersey Devils.svg"
+  },
+  {
+    "id": 469,
+    "name": "Detroit Red Wings",
+    "cover": "logos/covers/detroit-red-wings.svg",
+    "description": "Detroit Red Wings cover image",
+    "resource": "logos/resources/Logo - Detroit Red Wings.svg"
+  },
+  {
+    "id": 470,
+    "name": "New York Islanders",
+    "cover": "logos/covers/new-york-islanders.svg",
+    "description": "New York Islanders cover image",
+    "resource": "logos/resources/Logo - New York Islanders.svg"
+  },
+  {
+    "id": 471,
+    "name": "Florida Panthers",
+    "cover": "logos/covers/florida-panthers.svg",
+    "description": "Florida Panthers cover image",
+    "resource": "logos/resources/Logo - Florida Panthers.svg"
+  },
+  {
+    "id": 472,
+    "name": "New York Rangers",
+    "cover": "logos/covers/new-york-rangers.svg",
+    "description": "New York Rangers cover image",
+    "resource": "logos/resources/Logo - New York Rangers.svg"
+  },
+  {
+    "id": 473,
+    "name": "Montréal Canadiens",
+    "cover": "logos/covers/montréal-canadiens.svg",
+    "description": "Montréal Canadiens cover image",
+    "resource": "logos/resources/Logo - Montréal Canadiens.svg"
+  },
+  {
+    "id": 474,
+    "name": "Philadelphia Flyers",
+    "cover": "logos/covers/philadelphia-flyers.svg",
+    "description": "Philadelphia Flyers cover image",
+    "resource": "logos/resources/Logo - Philadelphia Flyers.svg"
+  },
+  {
+    "id": 475,
+    "name": "Ottawa Senators",
+    "cover": "logos/covers/ottawa-senators.svg",
+    "description": "Ottawa Senators cover image",
+    "resource": "logos/resources/Logo - Ottawa Senators.svg"
+  },
+  {
+    "id": 476,
+    "name": "Pittsburgh Penguins",
+    "cover": "logos/covers/pittsburgh-penguins.svg",
+    "description": "Pittsburgh Penguins cover image",
+    "resource": "logos/resources/Logo - Pittsburgh Penguins.svg"
+  },
+  {
+    "id": 477,
+    "name": "Tampa Bay Lightning",
+    "cover": "logos/covers/tampa-bay-lightning.svg",
+    "description": "Tampa Bay Lightning cover image",
+    "resource": "logos/resources/Logo - Tampa Bay Lightning.svg"
+  },
+  {
+    "id": 478,
+    "name": "Washington Capitals",
+    "cover": "logos/covers/washington-capitals.svg",
+    "description": "Washington Capitals cover image",
+    "resource": "logos/resources/Logo - Washington Capitals.svg"
+  },
+  {
+    "id": 479,
+    "name": "Toronto Maple Leafs",
+    "cover": "logos/covers/toronto-maple-leafs.svg",
+    "description": "Toronto Maple Leafs cover image",
+    "resource": "logos/resources/Logo - Toronto Maple Leafs.svg"
+  },
+  {
+    "id": 480,
+    "name": "Chicago Blackhawks",
+    "cover": "logos/covers/chicago-blackhawks.svg",
+    "description": "Chicago Blackhawks cover image",
+    "resource": "logos/resources/Logo - Chicago Blackhawks.svg"
+  },
+  {
+    "id": 481,
+    "name": "Anaheim Ducks",
+    "cover": "logos/covers/anaheim-ducks.svg",
+    "description": "Anaheim Ducks cover image",
+    "resource": "logos/resources/Logo - Anaheim Ducks.svg"
+  },
+  {
+    "id": 482,
+    "name": "Colorado Avalanche",
+    "cover": "logos/covers/colorado-avalanche.svg",
+    "description": "Colorado Avalanche cover image",
+    "resource": "logos/resources/Logo - Colorado Avalanche.svg"
+  },
+  {
+    "id": 483,
+    "name": "Calgary Flames",
+    "cover": "logos/covers/calgary-flames.svg",
+    "description": "Calgary Flames cover image",
+    "resource": "logos/resources/Logo - Calgary Flames.svg"
+  },
+  {
+    "id": 484,
+    "name": "Dallas Stars",
+    "cover": "logos/covers/dallas-stars.svg",
+    "description": "Dallas Stars cover image",
+    "resource": "logos/resources/Logo - Dallas Stars.svg"
+  },
+  {
+    "id": 485,
+    "name": "Edmonton Oilers",
+    "cover": "logos/covers/edmonton-oilers.svg",
+    "description": "Edmonton Oilers cover image",
+    "resource": "logos/resources/Logo - Edmonton Oilers.svg"
+  },
+  {
+    "id": 486,
+    "name": "Minnesota Wild",
+    "cover": "logos/covers/minnesota-wild.svg",
+    "description": "Minnesota Wild cover image",
+    "resource": "logos/resources/Logo - Minnesota Wild.svg"
+  },
+  {
+    "id": 487,
+    "name": "Los Angeles Kings",
+    "cover": "logos/covers/los-angeles-kings.svg",
+    "description": "Los Angeles Kings cover image",
+    "resource": "logos/resources/Logo - Los Angeles Kings.svg"
+  },
+  {
+    "id": 488,
+    "name": "Nashville Predators",
+    "cover": "logos/covers/nashville-predators.svg",
+    "description": "Nashville Predators cover image",
+    "resource": "logos/resources/Logo - Nashville Predators.svg"
+  },
+  {
+    "id": 489,
+    "name": "San Jose Sharks",
+    "cover": "logos/covers/san-jose-sharks.svg",
+    "description": "San Jose Sharks cover image",
+    "resource": "logos/resources/Logo - San Jose Sharks.svg"
+  },
+  {
+    "id": 490,
+    "name": "St. Louis Blues",
+    "cover": "logos/covers/st-louis-blues.svg",
+    "description": "St. Louis Blues cover image",
+    "resource": "logos/resources/Logo - St. Louis Blues.svg"
+  },
+  {
+    "id": 491,
+    "name": "Seattle Kraken",
+    "cover": "logos/covers/seattle-kraken.svg",
+    "description": "Seattle Kraken cover image",
+    "resource": "logos/resources/Logo - Seattle Kraken.svg"
+  },
+  {
+    "id": 492,
+    "name": "Utah Hockey Club",
+    "cover": "logos/covers/utah-hockey-club.svg",
+    "description": "Utah Hockey Club cover image",
+    "resource": "logos/resources/Logo - Utah Hockey Club.svg"
+  },
+  {
+    "id": 493,
+    "name": "Vancouver Canucks",
+    "cover": "logos/covers/vancouver-canucks.svg",
+    "description": "Vancouver Canucks cover image",
+    "resource": "logos/resources/Logo - Vancouver Canucks.svg"
+  },
+  {
+    "id": 494,
+    "name": "Winnipeg Jets",
+    "cover": "logos/covers/winnipeg-jets.svg",
+    "description": "Winnipeg Jets cover image",
+    "resource": "logos/resources/Logo - Winnipeg Jets.svg"
+  },
+  {
+    "id": 495,
+    "name": "Vegas Golden Knights",
+    "cover": "logos/covers/vegas-golden-knights.svg",
+    "description": "Vegas Golden Knights cover image",
+    "resource": "logos/resources/Logo - Vegas Golden Knights.svg"
+  },
+  {
+    "id": 496,
+    "name": "The Home Depot",
+    "cover": "logos/covers/the-home-depot.svg",
+    "description": "The Home Depot cover image",
+    "resource": "logos/resources/Logo - The Home Depot.svg"
+  },
+  {
+    "id": 497,
+    "name": "Toyota",
+    "cover": "logos/covers/toyota.svg",
+    "description": "Toyota cover image",
+    "resource": "logos/resources/Logo - Toyota.svg"
+  },
+  {
+    "id": 498,
+    "name": "Playboy",
+    "cover": "logos/covers/playboy.svg",
+    "description": "Playboy cover image",
+    "resource": "logos/resources/Logo - Playboy.svg"
+  },
+  {
+    "id": 499,
+    "name": "The Walt Disney Company",
+    "cover": "logos/covers/the-walt-disney-company.svg",
+    "description": "The Walt Disney Company cover image",
+    "resource": "logos/resources/Logo - The Walt Disney Company.svg"
   }
 ]
