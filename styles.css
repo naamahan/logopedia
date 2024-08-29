@@ -171,6 +171,11 @@ footer {
   border: transparent;
 }
 
+.gallery {
+  max-height: calc(100vh - 6.8rem - 2.8rem);
+  overflow: auto;
+}
+
 .card-gallery {
   display: flex;
   flex-direction: row;
@@ -270,7 +275,6 @@ footer {
 
   .gallery {
     max-height: calc(100vh - 8.4rem - 2.8rem);
-    overflow: auto;
   }
 }
 
