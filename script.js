@@ -24,7 +24,7 @@ const displayLogos = async () => {
     return `
     <div class="card full" data-product-id="${id}">
       <div class="card__image">
-        <img src="${cover}" alt="${description}" height="64px" width="160px">
+        <img src="${cover}" alt="${description}" height="64px" width="160px" loading="lazy">
       </div>
       <div class="card__desc b-white">
         <h3 class="card__name full">${name}</h3>
