@@ -100,7 +100,7 @@ a {
 
 .hero {
   background-color: var(--pink-light);
-  padding-bottom: var(--s-40);
+  padding-bottom: var(--s-24);
 }
 
 .navigation, footer {
@@ -112,7 +112,7 @@ a {
 
 .navigation {
   position: relative;
-  margin-bottom: var(--s-24);
+  margin-bottom: var(--s-8);
 }
 
 .github-icon {
@@ -266,6 +266,11 @@ footer {
 
   form {
     max-width: 23.4rem;
+  }
+
+  .gallery {
+    max-height: calc(100vh - 8.4rem - 2.8rem);
+    overflow: auto;
   }
 }
 
