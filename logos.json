@@ -3024,53 +3024,60 @@
     "resource": "logos/resources/Logo - Girona FC.svg"
   },
   {
-    "id": 434,
+    "id": 433,
     "name": "Rayo Vallecano",
     "cover": "logos/covers/rayo-vallecano.svg",
     "description": "Rayo Vallecano cover image",
     "resource": "logos/resources/Logo - Rayo Vallecano.svg"
   },
   {
-    "id": 435,
+    "id": 434,
     "name": "RCD Mallorca",
     "cover": "logos/covers/rcd-mallorca.svg",
     "description": "RCD Mallorca cover image",
     "resource": "logos/resources/Logo - RCD Mallorca.svg"
   },
   {
-    "id": 436,
+    "id": 435,
     "name": "Real Madrid CF",
     "cover": "logos/covers/real-madrid-cf.svg",
     "description": "Real Madrid CF cover image",
     "resource": "logos/resources/Logo - Real Madrid CF.svg"
   },
   {
-    "id": 437,
+    "id": 436,
     "name": "Real Sociedad S.A.D",
     "cover": "logos/covers/real-sociedad-sad.svg",
     "description": "Real Sociedad S.A.D cover image",
     "resource": "logos/resources/Logo - Real Sociedad S.A.D.svg"
   },
   {
-    "id": 438,
+    "id": 437,
     "name": "Real Valladolid CF",
     "cover": "logos/covers/real-valladolid-cf.svg",
     "description": "Real Valladolid CF cover image",
     "resource": "logos/resources/Logo - Real Valladolid CF.svg"
   },
   {
-    "id": 439,
+    "id": 438,
     "name": "UD Las Palmas",
     "cover": "logos/covers/ud-las-palmas.svg",
     "description": "UD Las Palmas cover image",
     "resource": "logos/resources/Logo - UD Las Palmas.svg"
   },
   {
-    "id": 440,
+    "id": 439,
     "name": "Villarreal CF",
     "cover": "logos/covers/villarreal-cf.svg",
     "description": "Villarreal CF cover image",
     "resource": "logos/resources/Logo - Villarreal CF.svg"
+  },
+  {
+    "id": 440,
+    "name": "Invidious",
+    "cover": "logos/covers/invidious.svg",
+    "description": "Invidious cover image",
+    "resource": "logos/resources/Logo - Invidious.svg"
   },
   {
     "id": 441,
@@ -3484,5 +3491,82 @@
     "cover": "logos/covers/the-walt-disney-company.svg",
     "description": "The Walt Disney Company cover image",
     "resource": "logos/resources/Logo - The Walt Disney Company.svg"
+  },
+  {
+    "id": 500,
+    "name": "Goldco",
+    "cover": "logos/covers/goldco.svg",
+    "description": "Goldco cover image",
+    "resource": "logos/resources/Logo - Goldco.svg"
+  },
+  {
+    "id": 501,
+    "name": "Advantage Gold",
+    "cover": "logos/covers/advantage-gold.svg",
+    "description": "Advantage Gold cover image",
+    "resource": "logos/resources/Logo - Advantage Gold.svg"
+  },
+  {
+    "id": 502,
+    "name": "American Hartford Gold",
+    "cover": "logos/covers/american-hartford-gold.svg",
+    "description": "American Hartford Gold cover image",
+    "resource": "logos/resources/Logo - American Hartford Gold.svg"
+  },
+  {
+    "id": 503,
+    "name": "American Alternative Assets",
+    "cover": "logos/covers/american-alternative-assets.svg",
+    "description": "American Alternative Assets cover image",
+    "resource": "logos/resources/Logo - American Alternative Assets.svg"
+  },
+  {
+    "id": 504,
+    "name": "Suncoast Credit Union",
+    "cover": "logos/covers/suncoast-credit-union.svg",
+    "description": "Suncoast Credit Union cover image",
+    "resource": "logos/resources/Logo - Suncoast Credit Union.svg"
+  },
+  {
+    "id": 505,
+    "name": "Mountain America Credit Union",
+    "cover": "logos/covers/mountain-america-credit-union.svg",
+    "description": "Mountain America Credit Union cover image",
+    "resource": "logos/resources/Logo - Mountain America Credit Union.svg"
+  },
+  {
+    "id": 506,
+    "name": "United Nations",
+    "cover": "logos/covers/united-nations.svg",
+    "description": "United Nations cover image",
+    "resource": "logos/resources/Logo - United Nations.svg"
+  },
+  {
+    "id": 507,
+    "name": "ArtStation",
+    "cover": "logos/covers/artstation.svg",
+    "description": "ArtStation cover image",
+    "resource": "logos/resources/Logo - ArtStation.svg"
+  },
+  {
+    "id": 508,
+    "name": "Sketchfab",
+    "cover": "logos/covers/sketchfab.svg",
+    "description": "Sketchfab cover image",
+    "resource": "logos/resources/Logo - Sketchfab.svg"
+  },
+  {
+    "id": 509,
+    "name": "TikTok",
+    "cover": "logos/covers/tiktok.svg",
+    "description": "TikTok cover image",
+    "resource": "logos/resources/Logo - TikTok.svg"
+  },
+  {
+    "id": 510,
+    "name": "TikTok Icon",
+    "cover": "logos/covers/tiktok-icon.svg",
+    "description": "TikTok Icon cover image",
+    "resource": "logos/resources/Logo - TikTok Icon.svg"
   }
 ]
