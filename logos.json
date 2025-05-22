@@ -3967,5 +3967,236 @@
     "cover": "logos/covers/merrill-lynch.svg",
     "description": "Merrill Lynch cover image",
     "resource": "logos/resources/Logo - Merrill Lynch.svg"
+  },
+  {
+    "id": 568,
+    "name": "Michelin",
+    "cover": "logos/covers/michelin.svg",
+    "description": "Michelin cover image",
+    "resource": "logos/resources/Logo - Michelin.svg"
+  },
+  {
+    "id": 569,
+    "name": "Michelin Bibendum",
+    "cover": "logos/covers/michelin-bibendum.svg",
+    "description": "Michelin Bibendum cover image",
+    "resource": "logos/resources/Logo - Michelin Bibendum.svg"
+  },
+  {
+    "id": 570,
+    "name": "First Internet Bank",
+    "cover": "logos/covers/first-internet-bank.svg",
+    "description": "First Internet Bank cover image",
+    "resource": "logos/resources/Logo - First Internet Bank.svg"
+  },
+  {
+    "id": 571,
+    "name": "Pirelli",
+    "cover": "logos/covers/pirelli.svg",
+    "description": "Pirelli cover image",
+    "resource": "logos/resources/Logo - Pirelli.svg"
+  },
+  {
+    "id": 572,
+    "name": "Corona",
+    "cover": "logos/covers/corona.svg",
+    "description": "Corona cover image",
+    "resource": "logos/resources/Logo - Corona.svg"
+  },
+  {
+    "id": 573,
+    "name": "CVS Health",
+    "cover": "logos/covers/cvs-health.svg",
+    "description": "CVS Health cover image",
+    "resource": "logos/resources/Logo - CVS Health.svg"
+  },
+  {
+    "id": 574,
+    "name": "Exxon Mobil",
+    "cover": "logos/covers/exxon-mobil.svg",
+    "description": "Exxon Mobil cover image",
+    "resource": "logos/resources/Logo - Exxon Mobil.svg"
+  },
+  {
+    "id": 575,
+    "name": "McKesson",
+    "cover": "logos/covers/mckesson.svg",
+    "description": "McKesson cover image",
+    "resource": "logos/resources/Logo - McKesson.svg"
+  },
+  {
+    "id": 576,
+    "name": "Sephora",
+    "cover": "logos/covers/sephora.svg",
+    "description": "Sephora cover image",
+    "resource": "logos/resources/Logo - Sephora.svg"
+  },
+  {
+    "id": 577,
+    "name": "Glencore",
+    "cover": "logos/covers/glencore.svg",
+    "description": "Glencore cover image",
+    "resource": "logos/resources/Logo - Glencore.svg"
+  },
+  {
+    "id": 578,
+    "name": "Stellantis",
+    "cover": "logos/covers/stellantis.svg",
+    "description": "Stellantis cover image",
+    "resource": "logos/resources/Logo - Stellantis.svg"
+  },
+  {
+    "id": 579,
+    "name": "Fortune",
+    "cover": "logos/covers/fortune.svg",
+    "description": "Fortune cover image",
+    "resource": "logos/resources/Logo - Fortune.svg"
+  },
+  {
+    "id": 580,
+    "name": "Chevron",
+    "cover": "logos/covers/chevron.svg",
+    "description": "Chevron cover image",
+    "resource": "logos/resources/Logo - Chevron.svg"
+  },
+  {
+    "id": 581,
+    "name": "Cigna Healthcare",
+    "cover": "logos/covers/cigna-healthcare.svg",
+    "description": "Cigna Healthcare cover image",
+    "resource": "logos/resources/Logo - Cigna Healthcare.svg"
+  },
+  {
+    "id": 582,
+    "name": "UBS",
+    "cover": "logos/covers/ubs.svg",
+    "description": "UBS cover image",
+    "resource": "logos/resources/Logo - UBS.svg"
+  },
+  {
+    "id": 583,
+    "name": "Credit Suisse",
+    "cover": "logos/covers/credit-suisse.svg",
+    "description": "Credit Suisse cover image",
+    "resource": "logos/resources/Logo - Credit Suisse.svg"
+  },
+  {
+    "id": 584,
+    "name": "Elevance Health",
+    "cover": "logos/covers/elevance-health.svg",
+    "description": "Elevance Health cover image",
+    "resource": "logos/resources/Logo - Elevance Health.svg"
+  },
+  {
+    "id": 585,
+    "name": "BMW",
+    "cover": "logos/covers/bmw.svg",
+    "description": "BMW cover image",
+    "resource": "logos/resources/Logo - BMW.svg"
+  },
+  {
+    "id": 586,
+    "name": "Mini",
+    "cover": "logos/covers/mini.svg",
+    "description": "Mini cover image",
+    "resource": "logos/resources/Logo - Mini.svg"
+  },
+  {
+    "id": 587,
+    "name": "Rolls-Royce Motor Cars",
+    "cover": "logos/covers/rolls-royce-motor-cars.svg",
+    "description": "Rolls-Royce Motor Cars cover image",
+    "resource": "logos/resources/Logo - Rolls-Royce Motor Cars.svg"
+  },
+  {
+    "id": 588,
+    "name": "Mercedes-Benz",
+    "cover": "logos/covers/mercedes-benz.svg",
+    "description": "Mercedes-Benz cover image",
+    "resource": "logos/resources/Logo - Mercedes-Benz.svg"
+  },
+  {
+    "id": 589,
+    "name": "Athlon",
+    "cover": "logos/covers/athlon.svg",
+    "description": "Athlon cover image",
+    "resource": "logos/resources/Logo - Athlon.svg"
+  },
+  {
+    "id": 590,
+    "name": "Électricité de France",
+    "cover": "logos/covers/électricité-de-france.svg",
+    "description": "Électricité de France cover image",
+    "resource": "logos/resources/Logo - Électricité de France.svg"
+  },
+  {
+    "id": 591,
+    "name": "Maraton Petroleum",
+    "cover": "logos/covers/maraton-petroleum.svg",
+    "description": "Maraton Petroleum cover image",
+    "resource": "logos/resources/Logo - Maraton Petroleum.svg"
+  },
+  {
+    "id": 592,
+    "name": "New York Life Insurance",
+    "cover": "logos/covers/new-york-life-insurance.svg",
+    "description": "New York Life Insurance cover image",
+    "resource": "logos/resources/Logo - New York Life Insurance.svg"
+  },
+  {
+    "id": 593,
+    "name": "AOL",
+    "cover": "logos/covers/aol.svg",
+    "description": "AOL cover image",
+    "resource": "logos/resources/Logo - AOL.svg"
+  },
+  {
+    "id": 594,
+    "name": "NewsBreak",
+    "cover": "logos/covers/newsbreak.svg",
+    "description": "NewsBreak cover image",
+    "resource": "logos/resources/Logo - NewsBreak.svg"
+  },
+  {
+    "id": 595,
+    "name": "Flipboard",
+    "cover": "logos/covers/flipboard.svg",
+    "description": "Flipboard cover image",
+    "resource": "logos/resources/Logo - Flipboard.svg"
+  },
+  {
+    "id": 596,
+    "name": "CreditWise",
+    "cover": "logos/covers/creditwise.svg",
+    "description": "CreditWise cover image",
+    "resource": "logos/resources/Logo - CreditWise.svg"
+  },
+  {
+    "id": 597,
+    "name": "MarketWatch",
+    "cover": "logos/covers/marketwatch.svg",
+    "description": "MarketWatch cover image",
+    "resource": "logos/resources/Logo - MarketWatch.svg"
+  },
+  {
+    "id": 598,
+    "name": "The Balance",
+    "cover": "logos/covers/the-balance.svg",
+    "description": "The Balance cover image",
+    "resource": "logos/resources/Logo - The Balance.svg"
+  },
+  {
+    "id": 599,
+    "name": "Investopedia",
+    "cover": "logos/covers/investopedia.svg",
+    "description": "Investopedia cover image",
+    "resource": "logos/resources/Logo - Investopedia.svg"
+  },
+  {
+    "id": 600,
+    "name": "SoFi",
+    "cover": "logos/covers/sofi.svg",
+    "description": "SoFi cover image",
+    "resource": "logos/resources/Logo - SoFi.svg"
   }
 ]
