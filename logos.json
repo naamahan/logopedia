@@ -4198,5 +4198,124 @@
     "cover": "logos/covers/sofi.svg",
     "description": "SoFi cover image",
     "resource": "logos/resources/Logo - SoFi.svg"
+  },
+  {
+    "id": 601,
+    "name": "Credit Genie",
+    "cover": "logos/covers/credit-genie.svg",
+    "description": "Credit Genie cover image",
+    "resource": "logos/resources/Logo - Credit Genie.svg"
+  },
+  {
+    "id": 602,
+    "name": "Cleo",
+    "cover": "logos/covers/cleo.svg",
+    "description": "Cleo cover image",
+    "resource": "logos/resources/Logo - Cleo.svg"
+  },
+  {
+    "id": 603,
+    "name": "Happy Money",
+    "cover": "logos/covers/happy-money.svg",
+    "description": "Happy Money cover image",
+    "resource": "logos/resources/Logo - Happy Money.svg"
+  },
+  {
+    "id": 604,
+    "name": "Best Egg",
+    "cover": "logos/covers/best-egg.svg",
+    "description": "Best Egg cover image",
+    "resource": "logos/resources/Logo - Best Egg.svg"
+  },
+  {
+    "id": 605,
+    "name": "Cross River",
+    "cover": "logos/covers/cross-river.svg",
+    "description": "Cross River cover image",
+    "resource": "logos/resources/Logo - Cross River.svg"
+  },
+  {
+    "id": 606,
+    "name": "Column",
+    "cover": "logos/covers/column.svg",
+    "description": "Column cover image",
+    "resource": "logos/resources/Logo - Column.svg"
+  },
+  {
+    "id": 607,
+    "name": "First Bank and Trust",
+    "cover": "logos/covers/first-bank-and-trust.svg",
+    "description": "First Bank and Trust cover image",
+    "resource": "logos/resources/Logo - First Bank and Trust.svg"
+  },
+  {
+    "id": 608,
+    "name": "Nokia",
+    "cover": "logos/covers/nokia.svg",
+    "description": "Nokia cover image",
+    "resource": "logos/resources/Logo - Nokia.svg"
+  },
+  {
+    "id": 609,
+    "name": "Mitsubishi Motors",
+    "cover": "logos/covers/mitsubishi-motors.svg",
+    "description": "Mitsubishi Motors cover image",
+    "resource": "logos/resources/Logo - Mitsubishi Motors.svg"
+  },
+  {
+    "id": 610,
+    "name": "Hyundai",
+    "cover": "logos/covers/hyundai.svg",
+    "description": "Hyundai cover image",
+    "resource": "logos/resources/Logo - Hyundai.svg"
+  },
+  {
+    "id": 611,
+    "name": "Kia",
+    "cover": "logos/covers/kia.svg",
+    "description": "Kia cover image",
+    "resource": "logos/resources/Logo - Kia.svg"
+  },
+  {
+    "id": 612,
+    "name": "Lexus",
+    "cover": "logos/covers/lexus.svg",
+    "description": "Lexus cover image",
+    "resource": "logos/resources/Logo - Lexus.svg"
+  },
+  {
+    "id": 613,
+    "name": "Suzuki",
+    "cover": "logos/covers/suzuki.svg",
+    "description": "Suzuki cover image",
+    "resource": "logos/resources/Logo - Suzuki.svg"
+  },
+  {
+    "id": 614,
+    "name": "Mazda",
+    "cover": "logos/covers/mazda.svg",
+    "description": "Mazda cover image",
+    "resource": "logos/resources/Logo - Mazda.svg"
+  },
+  {
+    "id": 615,
+    "name": "lululemon",
+    "cover": "logos/covers/lululemon.svg",
+    "description": "lululemon cover image",
+    "resource": "logos/resources/Logo - lululemon.svg"
+  },
+  {
+    "id": 616,
+    "name": "Decathlon",
+    "cover": "logos/covers/decathlon.svg",
+    "description": "Decathlon cover image",
+    "resource": "logos/resources/Logo - Decathlon.svg"
+  },
+  {
+    "id": 617,
+    "name": "Decathlon Icon",
+    "cover": "logos/covers/decathlon-icon.svg",
+    "description": "Decathlon Icon cover image",
+    "resource": "logos/resources/Logo - Decathlon Icon.svg"
   }
 ]
